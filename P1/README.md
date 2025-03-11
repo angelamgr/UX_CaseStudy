@@ -21,6 +21,7 @@ Valley Vega es una cooperativa en Granada dedicada a la producción y venta de p
 Como **público objetivo** tiene a las  personas y empresas interesadas en productos ecológicos y de proximidad.  
 
 Hemos analizado su web y visto los puntos fuertes y débiles de la misma:
+
 **🔹 Puntos fuertes:**  
 ✔️ Web intuitiva y responsive  
 ✔️ Tienda online con productos detallados  
