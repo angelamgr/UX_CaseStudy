@@ -37,9 +37,10 @@ Hemos seleccionado a tres personas, un deportista, una mujer embarazada y una mu
 ### 🏊 **Deportista**
 Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Busca ahorrar tiempo a la hora de hacer la compra además de mantener una buena relación con la comida, pretende hacer ambas cosas haciendo sus compras en mercados ecológicos online. En la ficha adjunta se puede ver la información completa sobre Alex. 
 
-### **Mujer Embarazada** 
+### 🤰 **Mujer Embarazada** 
+Gracia Jiménez es una profesora de secundaria que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en la naturaleza y además de leer, tanto literatura como articulos varios. Le preocupa el medioambiente y busca concienciar a sus alumnos sobre ello. Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos tiene mucho tiempo para hacer la compra entre semana, por lo que quieren encontrar un sitio web que permita hacer compras online. No busca cualquier producto: quiere comprar alimentos orgánicos para en un futuro alimentar de forma saludable a su hijo.
 
-### **Anciana** 
+### 👵 **Anciana** 
 
 ## 🛤️ User Journey Maps  
 Hemos elaborado tres experiencias, una por cada persona comentada anteriormente:
