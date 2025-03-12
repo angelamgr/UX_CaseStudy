@@ -4,7 +4,7 @@
 Hemos llevado a cabo un user research plan con el proposito de conocer a nuestro público objetivo para optimizar la usabilidad y funcionalidad de nuestra página web. Identificaremos los perfiles de nuestros futuros usuarios, sus hábitos de compra y las barreras que se pueden encontrar realizando las compras. Con estos datos, podremos realizar un diseño adaptado a sus necesidades, mejorando la conversión y fidelización de clientes.
 En el documento adjunto podremos ver en profundidad los distintos puntos abarcados en el estudio como por ejemplo: los objetivos, los métodos de investigación y las personas que serán nuestro público.
 
-[USER RESEARCH PAN.pdf](P1/USER RESEARCH PLAN.pdf)
+[USER RESEARCH PAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
 ## 🔍 Análisis de la competencia  
 
