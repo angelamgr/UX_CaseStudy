@@ -64,8 +64,14 @@ Carmen quiere empezar a intentar comprar por Internet y lo intenta en la página
 [JM: ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapaAnciana_Persona3.pdf)
 
 ## 🔎 Revisión de Usabilidad
+Valoración final numérica: 69 (moderada)
+
+La página Naturefoods, nuestro principal competidor, ha obtenido una puntuación de 69 en nuestro Usability Review. En general, la página web está bien estructurada y es fácil navegar por ella, pero hemos encontrado varios puntos a mejorar:
+- Incluir información sobre promociones y productos destacado
+- Cuando se añadan productos al carrito, mostrar un mensaje de confirmación
+- Incluir una barra de progreso para que, al completar el pago, sepamos en qué punto de la transacción nos encontramos
+- Si ponemos un campo erróneo, que aparezca dicho error al lado del campo en vez de en la parte superior
+- Mejorar el tiempo de respuesta del carrito de la compra y del proceso de pago
+
 [DOCUMENTO COMPLETO USABILIDAD](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/UsabilityReviewNatureFoods.pdf)
-
-
-
 
