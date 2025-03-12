@@ -41,6 +41,7 @@ Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesio
 Gracia Jiménez es una profesora de secundaria que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en la naturaleza y además de leer, tanto literatura como articulos varios. Le preocupa el medioambiente y busca concienciar a sus alumnos sobre ello. Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos tiene mucho tiempo para hacer la compra entre semana, por lo que quieren encontrar un sitio web que permita hacer compras online. No busca cualquier producto: quiere comprar alimentos orgánicos para en un futuro alimentar de forma saludable a su hijo.
 
 ### 👵 **Anciana** 
+Carmen tiene 83 años y ha pasado toda su vida siendo ama de casa. Siempre ha estado preocupada por dejarle a sus nietos un mundo mejor donde se de más importancia a los productos ecológicos ya que su marido cultiva y ve todo el trabajo que hay detrás de este trabajo. Su objetivo es fomentar la compra de mercado sostenible y, de paso, por problemas de distancia y movilidad, aprender a usar las nuevas tecnologías para poder comprar desde casa.
 
 ## 🛤️ User Journey Maps  
 Hemos elaborado tres experiencias, una por cada persona comentada anteriormente:
@@ -48,9 +49,10 @@ Hemos elaborado tres experiencias, una por cada persona comentada anteriormente:
 ### 🏊 **Deportista** 
 La situación a la que se enfrenta es la siguiente, como no tiene tiempo de ir a hacer la compra con los entrenamientos y las oposiciones decide empezar a hacerla por las web de los mercados ecológicos. Decide empezar por Naturefood ya que se la recomendaron hace tiempo. Durante el proceso se encuentra con dificultades como la falta de información sobre algunos productos, la ausencia de un apartado de preguntas frecuentes y la falta de un número de telefono para contactar directamente con ellos. En el documento adjunto podemos ver en profuncidad la situación. 
 
-### **Mujer Embarazada** 
+### 🤰 **Mujer Embarazada** 
+Gracia se dispone a buscar una web de productos ecológicos para ir teniendo ideas de cara al futuro. Una de las primeras que encuentra es Naturefoods. Accede a ella y revisa el menú principal. Decide ver la sección de alimentos orgánicos, sección en la que elige varios productos para después proceder al pago. No tiene ningún problema con este proceso; encuentra los iconos fáciles de ver e intuitivos. No obstante, si se frustra a la hora de proceder al pago, ya que la web da la opción de crear una cuenta de usuario. Gracia no entiende por qué llegaría a crear una cuenta de usuario (cuáles son sus beneficios) y como la web no cuenta con una página de preguntas frecuentes, decide hacer la compra como usuario invitado. Pese a esta molestia, finaliza la compra bastante satisfecha.
 
-### **Anciana** 
+### 👵 **Anciana** 
+Carmen quiere empezar a intentar comprar por Internet y lo intenta en la página de Naturefood. Al entrar ve que hay un cupón descuento y quiere aprovecharlo pero no sabe cómo. Explorando por la web durante un tiempo definitivamente encuentra dónde usarlo pero tiene miedo a que ahora tenga que finalizar la compra sin ella quererlo. Le frustra muchísimo todo el tiempo que ha perdido y no lo ve nada claro por lo que decide no intentarlo más. Un apartado donde apereciese las instrucciones o de Preguntas Frecuentes hubiese sido muy necesario.
 
-
-## 🔎 Revisión de Usabilidad  - FALTA
+## 🔎 Revisión de Usabilidad
