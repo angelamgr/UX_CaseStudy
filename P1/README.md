@@ -36,7 +36,7 @@ Naturefoods es una tienda online de productos naturales, que ofrece tanto produc
 Su público objetivo está formado por aquellas personas que busquen una buena alimentación, evitando el uso de conservantes y comida artificial. También apuntan a deportistas que quieran consumir complementos alimenticios, y a cualquier persona que quiera utilizar cosméticos de origen ecológico.
 
 ### 📊 **Tabla comparativa**
-Tras estudiar los distintos competidores hemos llevado a cabo una comparación de los mismos para ver cual es nuestro competidor mas fuerte, el ranquin queda de la siguiente manera:
+Tras estudiar los distintos competidores hemos llevado a cabo una comparación de los mismos para ver cual es nuestro competidor mas fuerte, el ranking queda de la siguiente manera:
   - 1º NatureFoods con una puntuación de 11/15
   -  2º Valley&Vega con una puntuación de 8/15
   - 3º EcoMercado de Granada con una puntuación de 7/15
