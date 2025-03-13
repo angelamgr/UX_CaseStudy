@@ -48,7 +48,7 @@ En el documento adjunto se puede ver más información sobre cada una de las emp
 Hemos seleccionado a tres personas, un deportista, una mujer embarazada y una mujer anciana.   
 
 ### 🏊 **Deportista**
-Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Va a comenzar a vinir con su pareja y están pensando en adoptar una mascota. En el reparto de tareas de la casa le ha tocado encargarse de la compra y de cocinar.
+Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Va a comenzar a vivir con su pareja y están pensando en adoptar una mascota. En el reparto de tareas de la casa le ha tocado encargarse de la compra y de cocinar.
 [PERSONA 1 - DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA1-DEPORTISTA.pdf)
 
 ### 🤰 **Mujer Embarazada** 
