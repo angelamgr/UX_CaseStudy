@@ -13,31 +13,42 @@ Nuestro objetivo es desarrollar una web para la venta online de productos ecoló
 ### 🌿 **Valley Vega**  
 Valley Vega es una cooperativa en Granada dedicada a la producción y venta de productos ecológicos (frutas, verduras, pan y conservas). Su misión es conservar el paisaje y las tradiciones, ofreciendo alimentos saludables y sostenibles.  
 Ofrece variedad de productos y servicios entre los que destacan: 
-- Ecocestas de temporada  
-- Panadería ecológica artesanal  
-- Venta directa del agricultor  
+  - Ecocestas de temporada  
+  - Panadería ecológica artesanal  
+  - Venta directa del agricultor  
 
 Como **público objetivo** tiene a las  personas y empresas interesadas en productos ecológicos y de proximidad.  
+ 
+### 🌿 **EcoMercado de Granada**
+EcoMercado de Granada es un mercado ecológico que promueve el consumo responsable y sostenible de productos locales y orgánicos. Funciona como un punto de encuentro entre productores y consumidores, garantizando alimentos frescos y libres de químicos, con un impacto positivo en el medio ambiente y la economía local. Ofrece variedad de productos y servicios como:
+  - Frutas y verduras ecológicas de temporada.
+  - Panadería artesanal ecológica.
+  - Productos lácteos y huevos de producción ecológica.
 
-Hemos analizado su web y visto los puntos fuertes y débiles de la misma:
+Su **público objetivo** son consumidores concienciados con la ecología y el comercio justo, así como pequeños comercios y restaurantes interesados en productos locales de calidad.
 
-**🔹 Puntos fuertes:**  
-✔️ Web intuitiva y responsive  
-✔️ Tienda online con productos detallados  
-✔️ Conexión directa entre productores y consumidores  
+### 🌿 **NatureFoods**
+Naturefoods es una tienda online de productos naturales, que ofrece tanto productos y complementos alimenticios como productos de cosmética. Su objetivo es ofrecer una plataforma en la que comprar los anteriores productos sin conservantes ni aditivos, para personas que se preocupen por su salud. Ofrece variedad de productos y servicios:
+  - Alimentos (orgánicos, sin gluten, sin lactosa, aptos para veganos o vegetarianos)
+  - Complementos alimenticios
+  - Cosméticos naturales
 
-**🔸 Puntos débiles:**  
-❌ Falta de preguntas frecuentes y opción de idioma  
-❌ Experiencia de compra mejorable  
-❌ No cuenta con asistente de accesibilidad  
+Su público objetivo está formado por aquellas personas que busquen una buena alimentación, evitando el uso de conservantes y comida artificial. También apuntan a deportistas que quieran consumir complementos alimenticios, y a cualquier persona que quiera utilizar cosméticos de origen ecológico.
 
+### **Tabla comparativa**
+Tras estudiar los distintos competidores hemos llevado a cabo una comparación de los mismos para ver cual es nuestro competidor mas fuerte, el ranquin queda de la siguiente manera:
+  - 1º NatureFoods con una puntuación de 11/15
+  -  2º Valley&Vega con una puntuación de 8/15
+  - 3º EcoMercado de Granada con una puntuación de 7/15
+
+En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad.
 [DOCUMENTO COMPLETO](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/AN%C3%81LISIS%20COMPETITIVO.pdf)
 
 ## 👤 Personas  
 Hemos seleccionado a tres personas, un deportista, una mujer embarazada y una mujer anciana.   
 
 ### 🏊 **Deportista**
-Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Busca ahorrar tiempo a la hora de hacer la compra además de mantener una buena relación con la comida, pretende hacer ambas cosas haciendo sus compras en mercados ecológicos online. En la ficha adjunta se puede ver la información completa sobre Alex. 
+Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Va a comenzar a vinir con su pareja y están pensando en adoptar una mascota. En el reparto de tareas de la casa le ha tocado encargarse de la compra y de cocinar.
 [PERSONA 1 - DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA1-DEPORTISTA.pdf)
 
 ### 🤰 **Mujer Embarazada** 
@@ -52,7 +63,7 @@ Carmen tiene 83 años y ha pasado toda su vida siendo ama de casa. Siempre ha es
 Hemos elaborado tres experiencias, una por cada persona comentada anteriormente:
 
 ### 🏊 **Deportista** 
-La situación a la que se enfrenta es la siguiente, como no tiene tiempo de ir a hacer la compra con los entrenamientos y las oposiciones decide empezar a hacerla por las web de los mercados ecológicos. Decide empezar por Naturefood ya que se la recomendaron hace tiempo. Durante el proceso se encuentra con dificultades como la falta de información sobre algunos productos, la ausencia de un apartado de preguntas frecuentes y la falta de un número de telefono para contactar directamente con ellos. En el documento adjunto podemos ver en profuncidad la situación. 
+La situación a la que se enfrenta es la siguiente: Alex es cliente habitual de la web NatureFoods, todos los martes entra a la web para hacer su compra semanal, siempre con los mismos productos. Cuando esta realizando la compra tiene que buscar cada producto y añadirlo al carrito uno a uno, cuando termina la compra y paga se da cuenta de que ha tardado 40 minutos en hacer la misma compra que la semana anterior. Se frustra porque el proceso es lento y tedioso y la web no cuenta con ninguna forma de llevar a cabo la compra de siempre de manera ágil. Alex piensa que sería mucho más comodo si hubiera alguna forma de compra inmediata y se plantea la busqueda de otras webs que se lo ofrezcan.
 [JM: DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapDeportista_Persona1.pdf)
 
 ### 🤰 **Mujer Embarazada** 
@@ -67,11 +78,11 @@ Carmen quiere empezar a intentar comprar por Internet y lo intenta en la página
 Valoración final numérica: 69 (moderada)
 
 La página Naturefoods, nuestro principal competidor, ha obtenido una puntuación de 69 en nuestro Usability Review. En general, la página web está bien estructurada y es fácil navegar por ella, pero hemos encontrado varios puntos a mejorar:
-- Incluir información sobre promociones y productos destacado
-- Cuando se añadan productos al carrito, mostrar un mensaje de confirmación
-- Incluir una barra de progreso para que, al completar el pago, sepamos en qué punto de la transacción nos encontramos
-- Si ponemos un campo erróneo, que aparezca dicho error al lado del campo en vez de en la parte superior
-- Mejorar el tiempo de respuesta del carrito de la compra y del proceso de pago
+  - Incluir información sobre promociones y productos destacado
+  - Cuando se añadan productos al carrito, mostrar un mensaje de confirmación
+  - Incluir una barra de progreso para que, al completar el pago, sepamos en qué punto de la transacción nos encontramos
+  - Si ponemos un campo erróneo, que aparezca dicho error al lado del campo en vez de en la parte superior
+  - Mejorar el tiempo de respuesta del carrito de la compra y del proceso de pago
 
 [DOCUMENTO COMPLETO USABILIDAD](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/UsabilityReviewNatureFoods.pdf)
 
