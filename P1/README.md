@@ -6,6 +6,9 @@ En el documento adjunto podremos ver en profundidad los distintos puntos abarcad
 
 [USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
+
+
+
 ## 🔍 Análisis de la competencia  
 
 Nuestro objetivo es desarrollar una web para la venta online de productos ecológicos. Antes de comenzar con el desarrollo, hemos estudiado a la competencia, analizando los siguientes negocios: **Valley Vega, Ecomercado de Granada y Naturefoods**.  
@@ -44,6 +47,9 @@ Tras estudiar los distintos competidores hemos llevado a cabo una comparación d
 En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad.
 [DOCUMENTO COMPLETO](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/AN%C3%81LISIS%20COMPETITIVO.pdf)
 
+
+
+
 ## 👤 Personas  
 Hemos seleccionado a tres personas, un deportista, una mujer embarazada y una mujer anciana.   
 
@@ -53,12 +59,16 @@ Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesio
 
 ### 🤰 **Mujer Embarazada** 
 Gracia Jiménez es una profesora de secundaria (inglés) que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en al aire libre y leer, tanto literatura como articulos varios. Le gustan los idiomas y planea estudiar más italiano. Disfruta desde pequeña de dar clase y siempre intenta motivar a sus alumnos cons sus estudios.
-Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispone de mucho tiempo libre, por lo que reparten sus tareas de casa: él se encarga de la limpieza y ella de hacer la compra. Además, están pensando en comprar un coche para poder viajar en el futuro con su hijo de forma cómoda; actualmente solo hacen uso del transporte público.
-[PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-%20EMBARAZADA.pdf)
+
+Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispone de mucho tiempo libre, por lo que reparten las tareas de casa: él se encarga de la limpieza y ella de hacer la compra. Además, están pensando en comprar un coche para poder viajar en el futuro con su hijo de forma cómoda; actualmente solo hacen uso del transporte público.
+[PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-EMBARAZADA.pdf)
 
 ### 👵 **Anciana** 
 Carmen tiene 83 años y ha pasado toda su vida siendo ama de casa. Siempre ha estado preocupada por dejarle a sus nietos un mundo mejor donde se de más importancia a los productos ecológicos ya que su marido cultiva y ve todo el trabajo que hay detrás de este trabajo. Su objetivo es fomentar la compra de mercado sostenible y, de paso, por problemas de distancia y movilidad, aprender a usar las nuevas tecnologías para poder comprar desde casa.
 [PERSONA 3 - ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA3-ANCIANA.pdf)
+
+
+
 
 ## 🛤️ User Journey Maps  
 Hemos elaborado tres experiencias, una por cada persona comentada anteriormente:
@@ -69,12 +79,15 @@ La situación a la que se enfrenta es la siguiente: Alex es cliente habitual de 
 
 ### 🤰 **Mujer Embarazada** 
 Gracia habla con sus amigos sobre su embarazo y comenta que le preocupa no tener tiempo libre cuando nazca su hijo. Una amiga le recomienda hacer su compra online, como ella misma hace. Le recomienda la página que ella utiliza: Naturefoods.
-Unos días después, Gracia prueba la página que le recomendaron. Revisa su página principal y se sorprende de que vendan tanto alimentos como cosméticos y productos de limpieza. Decide probar a hacer una compra de varios productos alimenticios, para ver si le gustan. Una vez elegidos, procede al pago. No tiene ningún problema con este proceso; encuentra los iconos fáciles de encontrar e intuitivos. No obstante, si se frustra a la hora de proceder al pago, ya que la web da la opción de crear una cuenta de usuario. Gracia no entiende por qué llegaría a crear una cuenta de usuario (cuáles son sus beneficios) y como la web no cuenta con una página de preguntas frecuentes, decide hacer la compra como usuario invitado. Pese a esta molestia, finaliza la compra bastante satisfecha.
-[JM: MUJER EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapeEmbarazada_Persona2.pdf)
+Unos días después, Gracia prueba la página que le recomendaron. Revisa su página principal y se sorprende de que vendan tanto alimentos como cosméticos y productos de limpieza. Decide probar a hacer una compra de varios productos alimenticios, para ver si le gustan. Una vez elegidos, procede al pago. No tiene ningún problema con este proceso; encuentra los iconos fáciles de encontrar e intuitivos. No obstante, si se frustra a la hora de proceder al pago, ya que la web da la opción de crear una cuenta de usuario. Gracia no entiende por qué llegaría a crear una cuenta de usuario (cuáles son sus beneficios) y, como la web no cuenta con una página de preguntas frecuentes, decide hacer la compra como usuario invitado. Pese a esta pequeña molestia, finaliza la compra bastante satisfecha.
+[JM: MUJER EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapEmbarazada_Persona2.pdf)
 
 ### 👵 **Anciana** 
 Carmen quiere empezar a intentar comprar por Internet y lo intenta en la página de Naturefood. Al entrar ve que hay un cupón descuento y quiere aprovecharlo pero no sabe cómo. Explorando por la web durante un tiempo definitivamente encuentra dónde usarlo pero tiene miedo a que ahora tenga que finalizar la compra sin ella quererlo. Le frustra muchísimo todo el tiempo que ha perdido y no lo ve nada claro por lo que decide no intentarlo más. Un apartado donde apereciese las instrucciones o de Preguntas Frecuentes hubiese sido muy necesario.
 [JM: ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapaAnciana_Persona3.pdf)
+
+
+
 
 ## 🔎 Revisión de Usabilidad
 Valoración final numérica: 69 (moderada)
