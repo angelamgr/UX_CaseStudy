@@ -58,8 +58,8 @@ Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesio
 [PERSONA 1 - DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA1-DEPORTISTA.pdf)
 
 ### 🤰 **Mujer Embarazada** 
-Gracia Jiménez es una profesora de secundaria (inglés) que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en al aire libre y leer, tanto literatura como articulos varios. Le gustan los idiomas y planea estudiar más italiano. Disfruta desde pequeña de dar clase y siempre intenta motivar a sus alumnos cons sus estudios. <br>
-
+Gracia Jiménez es una profesora de secundaria (inglés) que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en al aire libre y leer, tanto literatura como articulos varios. Le gustan los idiomas y planea estudiar más italiano. Disfruta desde pequeña de dar clase y siempre intenta motivar a sus alumnos cons sus estudios.
+<br>
 Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispone de mucho tiempo libre, por lo que reparten las tareas de casa: él se encarga de la limpieza y ella de hacer la compra. Además, están pensando en comprar un coche para poder viajar en el futuro con su hijo de forma cómoda; actualmente solo hacen uso del transporte público.
 [PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-EMBARAZADA.pdf)
 
