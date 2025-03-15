@@ -64,7 +64,8 @@ Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispon
 [PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-EMBARAZADA.pdf)
 
 ### 👵 **Anciana** 
-Carmen tiene 83 años y ha pasado toda su vida siendo ama de casa. Siempre ha estado preocupada por dejarle a sus nietos un mundo mejor donde se de más importancia a los productos ecológicos ya que su marido cultiva y ve todo el trabajo que hay detrás de este trabajo. Su objetivo es fomentar la compra de mercado sostenible y, de paso, por problemas de distancia y movilidad, aprender a usar las nuevas tecnologías para poder comprar desde casa.
+Carmen López, de 83 años, ha vivido toda su vida en Churriana de la Vega. Vive con su esposo Pedro en una casa en el campo y ha sido costurera desde joven.
+Le encanta salir con sus amigas, ir al mercado y pasar tiempo con sus nietos. Con el tiempo, le cuesta más desplazarse y adaptarse a la tecnología, pero está dispuesta a aprender para seguir siendo independiente.
 [PERSONA 3 - ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA3-ANCIANA.pdf)
 <br>
 <br>
