@@ -38,7 +38,7 @@ Su público objetivo está formado por aquellas personas que busquen una buena a
 ### 📊 **Tabla comparativa**
 Tras estudiar los distintos competidores hemos llevado a cabo una comparación de los mismos para ver cual es nuestro competidor mas fuerte, el ranking queda de la siguiente manera:
   - 1º NatureFoods con una puntuación de 11/15
-  -  2º Valley&Vega con una puntuación de 8/15
+  - 2º Valley&Vega con una puntuación de 8/15
   - 3º EcoMercado de Granada con una puntuación de 7/15
 
 En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad.
@@ -52,7 +52,8 @@ Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesio
 [PERSONA 1 - DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA1-DEPORTISTA.pdf)
 
 ### 🤰 **Mujer Embarazada** 
-Gracia Jiménez es una profesora de secundaria que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en la naturaleza y además de leer, tanto literatura como articulos varios. Le preocupa el medioambiente y busca concienciar a sus alumnos sobre ello. Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos tiene mucho tiempo para hacer la compra entre semana, por lo que quieren encontrar un sitio web que permita hacer compras online. No busca cualquier producto: quiere comprar alimentos orgánicos para en un futuro alimentar de forma saludable a su hijo.
+Gracia Jiménez es una profesora de secundaria (inglés) que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en al aire libre y leer, tanto literatura como articulos varios. Le gustan los idiomas y planea estudiar más italiano. Disfruta desde pequeña de dar clase y siempre intenta motivar a sus alumnos cons sus estudios.
+Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispone de mucho tiempo libre, por lo que reparten sus tareas de casa: él se encarga de la limpieza y ella de hacer la compra. Además, están pensando en comprar un coche para poder viajar en el futuro con su hijo de forma cómoda; actualmente solo hacen uso del transporte público.
 [PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-%20EMBARAZADA.pdf)
 
 ### 👵 **Anciana** 
@@ -67,7 +68,8 @@ La situación a la que se enfrenta es la siguiente: Alex es cliente habitual de 
 [JM: DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapDeportista_Persona1.pdf)
 
 ### 🤰 **Mujer Embarazada** 
-Gracia se dispone a buscar una web de productos ecológicos para ir teniendo ideas de cara al futuro. Una de las primeras que encuentra es Naturefoods. Accede a ella y revisa el menú principal. Decide ver la sección de alimentos orgánicos, sección en la que elige varios productos para después proceder al pago. No tiene ningún problema con este proceso; encuentra los iconos fáciles de ver e intuitivos. No obstante, si se frustra a la hora de proceder al pago, ya que la web da la opción de crear una cuenta de usuario. Gracia no entiende por qué llegaría a crear una cuenta de usuario (cuáles son sus beneficios) y como la web no cuenta con una página de preguntas frecuentes, decide hacer la compra como usuario invitado. Pese a esta molestia, finaliza la compra bastante satisfecha.
+Gracia habla con sus amigos sobre su embarazo y comenta que le preocupa no tener tiempo libre cuando nazca su hijo. Una amiga le recomienda hacer su compra online, como ella misma hace. Le recomienda la página que ella utiliza: Naturefoods.
+Unos días después, Gracia prueba la página que le recomendaron. Revisa su página principal y se sorprende de que vendan tanto alimentos como cosméticos y productos de limpieza. Decide probar a hacer una compra de varios productos alimenticios, para ver si le gustan. Una vez elegidos, procede al pago. No tiene ningún problema con este proceso; encuentra los iconos fáciles de encontrar e intuitivos. No obstante, si se frustra a la hora de proceder al pago, ya que la web da la opción de crear una cuenta de usuario. Gracia no entiende por qué llegaría a crear una cuenta de usuario (cuáles son sus beneficios) y como la web no cuenta con una página de preguntas frecuentes, decide hacer la compra como usuario invitado. Pese a esta molestia, finaliza la compra bastante satisfecha.
 [JM: MUJER EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapeEmbarazada_Persona2.pdf)
 
 ### 👵 **Anciana** 
