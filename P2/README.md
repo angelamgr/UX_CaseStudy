@@ -1,4 +1,10 @@
 # IDEACIÓN
+Tras lo estudiado en la practica anterior hemos obtenido una idea general de las necesidades de nuestros posibles futuros usuarios. Gracias al analisis de la competencia, además, hemos conseguido información valiosa a tener en cuenta para conseguir un producto final que supla los errores que cometen otras plataformas del sector.
+
+En esta etapa vamos a empezar a idear nuestro proyecto: **Tierra Nazarí**.
+<br>
+<br>
+
 ## Malla receptora de información (Feedback Capture Grid)
 
 
@@ -7,10 +13,8 @@
 <br>
 
 ## Mapa de empatía
-Prueba para poner una imagen en el readme:
+Explicacion breve?
 ![Imagen mapa empatía](empathy_map.png)
-
-Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P2/Empathy%20Map.pdf)
 
 <br>
 <br>
@@ -26,7 +30,21 @@ Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/
 
 # Propuesta de valor
 ## ScopeCanvas
+Gracias a lo aprendido en la práctica anterior, resumido en la malla receptora de información que creamos, hemos empezado a dar forma a nuestro proyecto. Lo llamaremos **Tierra Nazarí**, y será una página web tanto de promoción de mercados y proveedores de de productos ecológicos como de compra de dichos. Queremos ofrecer una plataforma cómoda en la que los proveedores puedan anunciarse y donde los clientes encuentren fácilmente los productos que deseen.
 
+<br>
+
+En el siguiente scope canvas se muestra la propuesta de valor de nuestro proyecto. En resumen, queremos ofrecer a nuestros futuros usuarios:
+- Una forma de comprar productos a domicilio cómoda y sencilla, que permita:
+  - Diversos métodos de pago
+  - Creación de listas de productos para compras frecuentes
+- Una plataforma de venta online para los proveedores de productos ecológicos
+- Una página en la que los mercados ecológicos de Granada se puedan dar a conocer, pudiendo estos anunciar talleres relacionados
+- Blogs con recetas y noticias
+
+<br>
+
+![Imagen scope canvas](scope_canvas.png)
 
 
 
