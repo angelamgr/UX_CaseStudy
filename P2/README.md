@@ -1,31 +1,84 @@
-## DIU - Practica2, entregables
-
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+# Ideación
+## Malla receptora de información (Feedback Capture Grid)
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+
+<br>
+<br>
+
+## Mapa de empatía
+Prueba para poner una imagen en el readme:
+![image](https://github.com/angelamgr/UX_CaseStudy/blob/master/P2/Empathy%20Map.pdf)
+
+Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P2/Empathy%20Map.pdf)
+
+<br>
+<br>
+
+## Point of View 
 
 
-### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+<br>
+<br>
+<br>
+<br>
 
-
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
+# PROPUESTA DE VALOR
+## ScopeCanvas
 
 
-### Prototipo Lo-FI Wireframe 
 
 
-### Conclusiones  
+<br>
+<br>
+<br>
+<br>
+
+# TASK ANALYSIS
+## User Task Matrix 
+
+
+
+
+<br>
+<br>
+
+## User/Task flow
+
+
+<br>
+<br>
+<br>
+<br>
+
+# ARQUITECTURA DE INFORMACIÓN
+## Sitemap 
+
+
+<br>
+<br>
+
+## Labelling 
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+# Prototipo Lo-FI Wireframe 
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+# Conclusiones  
 (incluye valoración de esta etapa)
 
 
