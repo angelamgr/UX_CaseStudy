@@ -1,11 +1,9 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos) 
 
-[Guiones de prácticas](GuionesPracticas/)
+Grupo: DIU1.CameliaÁngelaTeresa.  Curso: 2024/25 
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
-
-Actualizado: xx/xx/2025
+Actualizado: 22/03/2025
 
 Proyecto: 
 
@@ -20,10 +18,10 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Ángela María Garrido Ruiz     [:octocat:](https://github.com/angelamgr)
+ * :bust_in_silhouette:  Camelia Peña Alcón     [:octocat:](https://github.com/gangnamteam)
+ * :bust_in_silhouette:  María Teresa Guerrero Salguero     [:octocat:](https://github.com/Zoroark828)
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
