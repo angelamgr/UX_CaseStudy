@@ -1,4 +1,4 @@
-# Ideación
+# IDEACIÓN
 ## Malla receptora de información (Feedback Capture Grid)
 
 
@@ -8,7 +8,7 @@
 
 ## Mapa de empatía
 Prueba para poner una imagen en el readme:
-![image](https://github.com/angelamgr/UX_CaseStudy/blob/master/P2/Empathy%20Map.pdf)
+![Imagen mapa empatía](empathy_map.png)
 
 Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P2/Empathy%20Map.pdf)
 
@@ -24,7 +24,7 @@ Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/
 <br>
 <br>
 
-# PROPUESTA DE VALOR
+# Propuesta de valor
 ## ScopeCanvas
 
 
@@ -35,7 +35,7 @@ Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/
 <br>
 <br>
 
-# TASK ANALYSIS
+# Task Analysis
 ## User Task Matrix 
 
 
@@ -52,7 +52,7 @@ Enlace a la imagen: [Empathy_Map.pdf](https://github.com/angelamgr/UX_CaseStudy/
 <br>
 <br>
 
-# ARQUITECTURA DE INFORMACIÓN
+# Arquitectura de información (AI)
 ## Sitemap 
 
 
