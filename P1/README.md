@@ -93,7 +93,7 @@ Carmen quiere empezar a intentar comprar por Internet y lo intenta en la página
 ## 🔎 Revisión de Usabilidad
 Valoración final numérica: 69 (moderada)
 
-La página Naturefoods, nuestro principal competidor, ha obtenido una puntuación de 69 en nuestro Usability Review. En general, la página web está bien estructurada y es fácil navegar por ella, pero hemos encontrado varios puntos a mejorar:
+La página [Naturefoods](https://www.naturefoods.es/), nuestro principal competidor, ha obtenido una puntuación de 69 en nuestro Usability Review. En general, la página web está bien estructurada y es fácil navegar por ella, pero hemos encontrado varios puntos a mejorar:
   - Incluir información sobre promociones y productos destacado
   - Cuando se añadan productos al carrito, mostrar un mensaje de confirmación
   - Incluir una barra de progreso para que, al completar el pago, sepamos en qué punto de la transacción nos encontramos
