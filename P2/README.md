@@ -18,9 +18,6 @@ Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el 
 
 ---
 
-## 🎯 Point of View  
-
-
 # 💡 Propuesta de Valor
 
 ## 🖼️ ScopeCanvas
