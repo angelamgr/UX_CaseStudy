@@ -1,104 +1,73 @@
-# IDEACIÓN
-Tras lo estudiado en la practica anterior hemos obtenido una idea general de las necesidades de nuestros posibles futuros usuarios. Gracias al analisis de la competencia, además, hemos conseguido información valiosa a tener en cuenta para conseguir un producto final que supla los errores que cometen otras plataformas del sector.
+# 🌱 IDEACIÓN
 
-En esta etapa vamos a empezar a idear nuestro proyecto: **Tierra Nazarí**.
-<br>
-<br>
+Tras lo estudiado en la práctica anterior, hemos obtenido una idea general de las necesidades de nuestros posibles futuros usuarios. Gracias al **análisis de la competencia**, también hemos conseguido información valiosa que nos permitirá corregir errores presentes en otras plataformas del sector y mejorar nuestra propuesta.
 
-## Malla receptora de información (Feedback Capture Grid)
+En esta etapa comenzamos a idear nuestro proyecto: **Tierra Nazarí**. 🌍
 
+---
 
-
-<br>
-<br>
-
-## Mapa de empatía
-Explicacion breve?
-![Imagen mapa empatía](empathy_map.png)
-
-<br>
-<br>
-
-## Point of View 
+## 📩 Malla receptora de información (Feedback Capture Grid)
 
 
 
-<br>
-<br>
-<br>
-<br>
+## 🧠 Mapa de empatía
 
-# Propuesta de valor
-## ScopeCanvas
-Gracias a lo aprendido en la práctica anterior, resumido en la malla receptora de información que creamos, hemos empezado a dar forma a nuestro proyecto. Lo llamaremos **Tierra Nazarí**, y será una página web tanto de promoción de mercados y proveedores de de productos ecológicos como de compra de dichos. Queremos ofrecer una plataforma cómoda en la que los proveedores puedan anunciarse y donde los clientes encuentren fácilmente los productos que deseen.
+Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el cual nos permite visualizar el comportamiento de nuestros usuarios identificados en la práctica anterior, así como nuestra propia perspectiva sobre su experiencia de usuario.
 
-<br>
+![Imagen del Mapa de Empatía](empathy_map.png)
 
-En el siguiente scope canvas se muestra la propuesta de valor de nuestro proyecto. En resumen, queremos ofrecer a nuestros futuros usuarios:
-- Una forma de comprar productos a domicilio cómoda y sencilla, que permita:
-  - Diversos métodos de pago
-  - Creación de listas de productos para compras frecuentes
-- Una plataforma de venta online para los proveedores de productos ecológicos
-- Una página en la que los mercados ecológicos de Granada se puedan dar a conocer, pudiendo estos anunciar talleres relacionados
-- Blogs con recetas y noticias
+---
 
-<br>
-
-![Imagen scope canvas](scope_canvas.png)
+## 🎯 Point of View  
 
 
+# 💡 Propuesta de Valor
 
-<br>
-<br>
-<br>
-<br>
+## 🖼️ ScopeCanvas
 
-# Task Analysis
-## User Task Matrix 
+Basándonos en los aprendizajes de la práctica anterior y la información recopilada en la **malla receptora de información**, hemos comenzado a dar forma a nuestro proyecto: **Tierra Nazarí**. 🌍🛍️
 
+**Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, facilitando tanto a proveedores como a clientes una plataforma sencilla y eficaz.
 
+### 📌 Nuestra propuesta de valor:
 
+- 🛒 **Compra de productos ecológicos a domicilio** con:
+  - Múltiples métodos de pago 💳
+  - Creación de listas de compras frecuentes 📝
+- 🏪 **Plataforma de venta online** para proveedores de productos ecológicos
+- 🏙️ **Espacio de promoción** para mercados ecológicos de Granada, incluyendo talleres
+- 📖 **Blogs** con recetas y noticias sobre consumo sostenible
 
-<br>
-<br>
+![Imagen del Scope Canvas](scope_canvas.png)
 
-## User/Task flow
+---
 
+# 🏗️ Task Analysis
 
-<br>
-<br>
-<br>
-<br>
-
-# Arquitectura de información (AI)
-## Sitemap 
-
-
-<br>
-<br>
-
-## Labelling 
+## 📝 User Task Matrix  
 
 
 
-
-<br>
-<br>
-<br>
-<br>
-
-# Prototipo Lo-FI Wireframe 
+## 🔄 User/Task Flow  
 
 
 
-<br>
-<br>
-<br>
-<br>
+# 🏛️ Arquitectura de Información (AI)
 
-# Conclusiones  
-(incluye valoración de esta etapa)
+## 🗺️ Sitemap  
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+## 🏷️ Labelling  
+
+
+
+# 🎨 Prototipo Lo-Fi Wireframe  
+
+
+
+# 📌 Conclusiones  
+
+*(Incluye una valoración de esta etapa y reflexiones del equipo sobre la realización de la práctica.)*
+
+
