@@ -62,7 +62,17 @@ Basándonos en los aprendizajes de la práctica anterior y la información recop
 
 
 # 🎨 Prototipo Lo-Fi Wireframe  
-
+Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en el Task Analysis:
+- Inicio de sesión
+![Inicio de sesion](inicio_sesion.png)
+- Añadir productos a la cesta
+![Añadir productos](añadir_productos.png)
+- Crear compra frecuente
+![Compra Frecuente](compra_frecuente.png)
+- Ver cesta
+![Cesta](ver_cesta.png)
+- Ver descuentos
+![Descuentos](ver_descuentos.png)
 
 
 # 📌 Conclusiones  
