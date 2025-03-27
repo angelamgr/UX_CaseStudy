@@ -14,7 +14,7 @@ En esta etapa comenzamos a idear nuestro proyecto: **Tierra Nazarí**. 🌍
 
 Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el cual nos permite visualizar el comportamiento de nuestros usuarios identificados en la práctica anterior, así como nuestra propia perspectiva sobre su experiencia de usuario.
 
-![Imagen del Mapa de Empatía](empathy_map.png)
+![Imagen del Mapa de Empatía](empathy.png)
 
 ---
 
