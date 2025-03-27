@@ -64,27 +64,27 @@ Basándonos en los aprendizajes de la práctica anterior y la información recop
 # 🎨 Prototipo Lo-Fi Wireframe  
 Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en el Task Analysis, es un diseño a bajo nivel. Podemos ver un posicionamiento orientativo de los botones así como una paleta de colores inicial
 
-## 🔑 Inicio de sesión
+### 🔑 Inicio de sesión
 La idea de funcionamiento es la de un inicio de sesión clásico, será relevante para aquellos usuarios registrados
 
 ![Inicio de sesion](inicio_sesion.png)
 
-## 🛍️ Añadir productos a la cesta  
+### 🛍️ Añadir productos a la cesta  
 Cuando le damos al que hay debajo de cada producto, se añaden a la cesta global.
 
 ![Añadir productos](añadir_productos.png)
 
-## 🔄 Crear compra frecuente  
+### 🔄 Crear compra frecuente  
 Tenemos un apartado con productos que compramos siempre. Podemos añadir nuevos con el ➕ central y, si pulsamos "Procesar compra", nos lleva a pagar el carrito con todos esos elementos.  
 
 ![Compra Frecuente](compra_frecuente.png)
 
-## 📦 Ver cesta  
+### 📦 Ver cesta  
 Cuando pulsamos "Ver cesta", podemos ver los elementos que se han añadido hasta el momento.
 
 ![Cesta](ver_cesta.png)
 
-## 💰 Ver descuentos  
+### 💰 Ver descuentos  
 En la pantalla de inicio, tenemos un apartado que informa a los usuarios de los descuentos disponibles cada semana. Si pulsan, ven el detalle de cada uno.  
 
 ![Descuentos](ver_descuentos.png)
