@@ -97,7 +97,8 @@ En la pantalla de inicio, tenemos un apartado que informa a los usuarios de los 
 
 
 # 📌 Conclusiones  
+Esta práctica nos ha permitido profundizar en el diseño centrado en el usuario, reflexionando sobre sus necesidades reales y su interacción con nuestra plataforma. A través del análisis de tareas, la elaboración de flujos de usuario y la construcción de prototipos, hemos podido definir con mayor precisión las funcionalidades clave de nuestra propuesta.
 
-*(Incluye una valoración de esta etapa y reflexiones del equipo sobre la realización de la práctica.)*
+Durante el proceso hemos utilizado diversas herramientas de diseño y prototipado como Canva, Figma, Draw.io y LibreOffice Draw, lo que nos ha permitido representar la información de forma visual, ordenada y accesible. Estas herramientas han facilitado la construcción de bocetos, mapas de tareas y flujos de navegación que enriquecen el enfoque del proyecto.
 
-
+En resumen, esta etapa ha sido fundamental para validar nuestras ideas iniciales y convertirlas en una base sólida sobre la que desarrollar una interfaz funcional, accesible y alineada con los valores de sostenibilidad y cercanía que promueve Tierra Nazarí.
