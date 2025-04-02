@@ -1,7 +1,7 @@
 # DIU25
 Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos) 
 
-Grupo: DIU1.CameliaÁngelaTeresa.  Curso: 2024/25 
+Grupo: DIU1.LasTres.  Curso: 2024/25 
 
 Actualizado: 22/03/2025
 
