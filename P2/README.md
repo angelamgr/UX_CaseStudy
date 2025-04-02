@@ -7,7 +7,7 @@ En esta etapa comenzamos a idear nuestro proyecto: **Tierra Nazarí**. 🌍
 ---
 
 ## 📩 Malla receptora de información (Feedback Capture Grid)
-
+![Imagen de la malla receptora de informacion](FeedbackCaptureGrid.png)
 
 
 ## 🧠 Mapa de empatía
@@ -24,16 +24,18 @@ Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el 
 
 Basándonos en los aprendizajes de la práctica anterior y la información recopilada en la **malla receptora de información**, hemos comenzado a dar forma a nuestro proyecto: **Tierra Nazarí**. 🌍🛍️
 
-**Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, facilitando tanto a proveedores como a clientes una plataforma sencilla y eficaz.
+En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la huella de carbono mediante un servicio que ofrezca los mejores productos ecológicos con una entrega rápida y poco contaminante. Nos vamos a centrar en las personas que también se preocupan por el futuro de su tierra, fomentando la compra de productos locales granadinos. **Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, donde además se anime a los granadinos a cuidar de su entorno con **noticias, recetas de cocina** y además **talleres** organizados por mercados locales.
 
 ### 📌 Nuestra propuesta de valor:
 
-- 🛒 **Compra de productos ecológicos a domicilio** con:
-  - Múltiples métodos de pago 💳
-  - Creación de listas de compras frecuentes 📝
 - 🏪 **Plataforma de venta online** para proveedores de productos ecológicos
-- 🏙️ **Espacio de promoción** para mercados ecológicos de Granada, incluyendo talleres
-- 📖 **Blogs** con recetas y noticias sobre consumo sostenible
+- 🏙️ **Espacio de promoción** para mercados ecológicos de Granada
+- 🛒 **Compra de productos ecológicos a domicilio**, con múltiples métodos de pago 💳
+- 👤 Creación de **cuentas de usuario** (de pago mensual), que permiten:
+  - Compra con **envío rápido** 💨
+  - Creación de listas de **compras frecuentes** 📝
+  - **Inscripción en talleres** organizados por mercados locales 👩‍🍳
+- 📖 Lectura de **Blogs** con recetas y noticias sobre consumo sostenible
 
 ![Imagen del Scope Canvas](scope_canvas.png)
 
@@ -44,6 +46,8 @@ Basándonos en los aprendizajes de la práctica anterior y la información recop
  
 
 ## 📝 User Task Matrix  
+La siguiente matriz de tareas resume las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
+![Imagen de la Task Matrix](User Task Matrix README.png)
 
 
 
