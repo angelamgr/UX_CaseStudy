@@ -47,7 +47,7 @@ En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la hue
 
 ## 📝 User Task Matrix  
 La siguiente matriz de tareas resume las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
-![Imagen de la Task Matrix](UserTaskMatrixREADME.png | width=100)
+![Imagen de la Task Matrix](UserTaskMatrixREADME.png)
 
 La matriz completa se puede encontrar en la siguiente imágen, junto a la puntuación de prioridad de cada acción:
 [User Task Matrix completa](UserTaskMatrix.png)
