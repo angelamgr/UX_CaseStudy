@@ -46,11 +46,14 @@ En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la hue
  
 
 ## 📝 User Task Matrix  
-La siguiente matriz de tareas resume las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
-![Imagen de la Task Matrix](Task_AnalysisREADME.png)
+La matriz de tareas incluye las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
 
-La matriz completa se puede encontrar en la siguiente imágen, junto a la puntuación de prioridad de cada acción:
-[User Task Matrix completa](Task_Analysis.pdf)
+<br>
+
+En la siguiente imagen se muestra un resumen de esta matriz, con las acciones más relevantes:
+![Imagen de la Task Matrix](Task_Analysis_README.PNG)
+
+La matriz completa se puede encontrar en el siguiente archivo pdf, junto a la puntuación de prioridad de cada usuario: [User Task Matrix completa](Task_Analysis.pdf)
 
 ## 🔄 User/Task Flow  
 A continuación, se muestran los flujos de usuario de las dos tareas más importantes dentro de la plataforma: Iniciar sesión y Añadir productos a la cesta. Estos diagramas reflejan los pasos que sigue un usuario desde el inicio hasta la finalización de cada tarea, incluyendo decisiones clave, puntos de validación y acciones intermedias. Nos permiten visualizar de forma clara y estructurada la experiencia del usuario para garantizar que sea fluida, lógica y sin fricciones.
