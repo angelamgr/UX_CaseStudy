@@ -89,17 +89,17 @@ La idea de funcionamiento es la de un inicio de sesión clásico, será relevant
 ![Inicio de sesion](inicio_sesion.png)
 
 ### 🛍️ Añadir productos a la cesta  
-Cuando le damos al que hay debajo de cada producto, se añaden a la cesta global.
+Cuando le damos al icono que hay debajo de cada producto, se añaden a la cesta global.
 
 ![Añadir productos](añadir_productos.png)
 
 ### 🔄 Crear compra frecuente  
-Tenemos un apartado con productos que compramos siempre. Podemos añadir nuevos con el ➕ central y, si pulsamos "Procesar compra", nos lleva a pagar el carrito con todos esos elementos.  
+Tenemos un apartado con productos que compramos siempre. Podemos añadir nuevos con el btón central y, si pulsamos "Procesar compra", nos lleva a pagar el carrito con todos esos elementos.  
 
 ![Compra Frecuente](compra_frecuente.png)
 
 ### 📦 Ver cesta  
-Cuando pulsamos "Ver cesta", podemos ver los elementos que se han añadido hasta el momento.
+Cuando pulsamos "Ver cesta", podemos ver los elementos que se han añadido hasta el momento. Podemos eliminar un elemento pulsando la papelera y comprar más cantidad pulsando el símbolo +
 
 ![Cesta](ver_cesta.png)
 
