@@ -60,11 +60,21 @@ A continuación, se muestran los flujos de usuario de las dos tareas más import
 # 🏛️ Arquitectura de Información (AI)
 
 ## 🗺️ Sitemap  
+El siguiente es el sitemap de nuestra página web. Lo hemos dividido en dos imágenes para facilitar su lectura. El sitemap completo se puede encontrar en el enlace: [Imagen sitemap completo](sitemap.png) 
 
+![Imagen 1 del sitemap](sitemap_dividido_1.png)
+
+![Imagen 2 del sitemap](sitemap_dividido_2.png)
 
 
 ## 🏷️ Labelling  
+Al haber definido tantos botones y páginas en el sitemap, el labelling también ha sido extenso. Un documento pdf con el etiquetado completo se puede encontrar en el enlace: [PDF labelling completo](labelling.pdf)
 
+![Primera imagen del labelling](labelling1.PNG)
+
+![Segunda imagen del labelling](labelling2.PNG)
+
+![Tercera y última imagen del labelling](labelling3.PNG)
 
 
 # 🎨 Prototipo Lo-Fi Wireframe  
