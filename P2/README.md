@@ -56,7 +56,7 @@ En la siguiente imagen se muestra un resumen de esta matriz, con las acciones m�
 La matriz completa se puede encontrar en el siguiente archivo pdf, junto a la puntuación de prioridad de cada usuario: [User Task Matrix completa](Task_Analysis.pdf)
 
 ## 🔄 User/Task Flow  
-A continuación, se muestran los flujos de usuario de las dos tareas más importantes dentro de la plataforma: Iniciar sesión y Añadir productos a la cesta. Estos diagramas reflejan los pasos que sigue un usuario desde el inicio hasta la finalización de cada tarea, incluyendo decisiones clave, puntos de validación y acciones intermedias. Nos permiten visualizar de forma clara y estructurada la experiencia del usuario para garantizar que sea fluida, lógica y sin fricciones.
+A continuación, se muestran los flujos de usuario de las dos tareas más importantes dentro de la plataforma: Iniciar sesión y Añadir productos a la cesta. Estos diagramas reflejan los pasos que sigue un usuario desde el inicio hasta la finalización de cada tarea, incluyendo decisiones clave, puntos de validación y acciones intermedias. Nos permiten visualizar de forma clara y estructurada la experiencia del usuario para garantizar que sea fluida, lógica y sin fricciones. c
 ![Imagen del User Task Flow](UserTaskFlow.png)
 
 
