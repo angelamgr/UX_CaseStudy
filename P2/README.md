@@ -7,6 +7,8 @@ En esta etapa comenzamos a idear nuestro proyecto: **Tierra Nazarí**. 🌍
 ---
 
 ## 📩 Malla receptora de información (Feedback Capture Grid)
+Este apartado recoge de forma estructurada las opiniones, necesidades y sugerencias que hemos recopilado durante el proceso de diseño. La malla nos ha permitido identificar patrones, validar ideas y detectar oportunidades de mejora basadas en la experiencia real de los usuarios.
+
 ![Imagen de la malla receptora de informacion](FeedbackCaptureGrid.png)
 
 
@@ -50,7 +52,8 @@ La matriz de tareas incluye las principales acciones que los diferentes tipos de
 
 <br>
 
-En la siguiente imagen se muestra un resumen de esta matriz, con las acciones más relevantes:
+En la siguiente imagen se muestra un resumen de esta matriz, con las acciones más relevantes. Hemos priorizado **iniciar sesión, añadir productos a la cesta y crear una compra frecuente** porque son esenciales para una experiencia de usuario fluida y personalizada. Iniciar sesión permite acceso a funciones personalizadas; añadir a la cesta facilita la compra consciente y flexible; y la compra frecuente ahorra tiempo, fomenta la recurrencia y fortalece el vínculo con los productos locales.
+
 ![Imagen de la Task Matrix](Task_Analysis_README.PNG)
 
 La matriz completa se puede encontrar en el siguiente archivo pdf, junto a la puntuación de prioridad de cada usuario: [User Task Matrix completa](Task_Analysis.pdf)
