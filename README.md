@@ -5,9 +5,7 @@ Grupo: DIU1.LasTres.  Curso: 2024/25
 
 Actualizado: 22/03/2025
 
-Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Tierra Narazí 
 
 Descripción: 
 
