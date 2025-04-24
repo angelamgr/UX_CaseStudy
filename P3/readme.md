@@ -1,6 +1,7 @@
 # 🌿 DIU - Práctica 3: Entregables
 
 ## 🎨 Moodboard (Diseño visual + Logotipo)
+Mostramos nuestro moodboard, donde definimos la guía de estilo visual de nuestra aplicación. En la imagen se incluyen los elementos clave —como el logotipo, la tipografía y la paleta de colores— junto con la explicación de por qué se ha elegido cada uno de ellos.
 
 ### 🔰 Nuestro logo
 Para representar a nuestra plataforma hemos elegido el logotipo que se puede ver en el **Moodboard**.  
