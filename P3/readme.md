@@ -18,6 +18,8 @@ La paleta de colores elegida está compuesta por los tonos que se pueden aprecia
 
 Con esta paleta queremos transmitir la esencia ecológica de nuestra propuesta y el espíritu de la ciudad.
 
+![Imagen del Moodboard](Moodboard.jpg)
+
 # 💻 Landing Page
 
 
