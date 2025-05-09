@@ -30,13 +30,22 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-Hemos completado la plantilla proporcionada de User Research para poder mejorar el desarrollo de nuestra página web. Este documento recopila información, análisis de preferencias de usuarios, así como los objetivos generales que pretendemos potenciar. 
-[P1/USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
+Hemos completado la plantilla proporcionada de User Research para poder mejorar el desarrollo de nuestra página web. En el documento adjunto podremos ver en profundidad los distintos puntos abarcados en el estudio como por ejemplo: los objetivos, los métodos de investigación y las personas que serán nuestro público.
+[USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+Nuestro objetivo es desarrollar una web para la venta online de productos ecológicos. Antes de comenzar con el desarrollo, hemos estudiado a la competencia, analizando los siguientes negocios: **Valley Vega, Ecomercado de Granada y Naturefoods**
+
+Tras estudiar los distintos competidores hemos llevado a cabo una comparación de los mismos para ver cual es nuestro competidor mas fuerte, el ranking queda de la siguiente manera:
+
+1º NatureFoods con una puntuación de 11/15
+2º Valley&Vega con una puntuación de 8/15
+3º EcoMercado de Granada con una puntuación de 7/15
+
+En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad. [DOCUMENTO COMPLETO](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/AN%C3%81LISIS%20COMPETITIVO.pdf)
 
 
 
