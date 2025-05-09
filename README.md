@@ -29,12 +29,13 @@ Miembros:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
+### 1.a User Reseach Plan
+![Método UX](img/Competitive.png) 
+-----
 Hemos completado la plantilla proporcionada de User Research para poder mejorar el desarrollo de nuestra página web. En el documento adjunto podremos ver en profundidad los distintos puntos abarcados en el estudio como por ejemplo: los objetivos, los métodos de investigación y las personas que serán nuestro público.
 [USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
-
-### 1.a User Reseach Plan
+### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 Nuestro objetivo es desarrollar una web para la venta online de productos ecológicos. Antes de comenzar con el desarrollo, hemos estudiado a la competencia, analizando los siguientes negocios: **Valley Vega, Ecomercado de Granada y Naturefoods**
@@ -47,92 +48,124 @@ Tras estudiar los distintos competidores hemos llevado a cabo una comparación d
 
 En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad. [DOCUMENTO COMPLETO](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/AN%C3%81LISIS%20COMPETITIVO.pdf)
 
-
-
-### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
-
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+### 🏊 **Deportista**
+Tenemos a Alex, un hombre de 25 años, residente de Granada, deportista profesional de natación que quiere preparar oposiciones para ser profesor de educación física. Tiene que coordinar su tiempo con los entrenamientos de natación para futuras competiciones y la preparación necesaria de las oposiciones mencionadas. Va a comenzar a vivir con su pareja y están pensando en adoptar una mascota. En el reparto de tareas de la casa le ha tocado encargarse de la compra y de cocinar.
+[PERSONA 1 - DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA1-DEPORTISTA.pdf)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+### 🤰 **Mujer Embarazada** 
+Gracia Jiménez es una profesora de secundaria (inglés) que vive en el Zaidín con su pareja, Juan. Disfruta mucho de hacer actividades en al aire libre y leer, tanto literatura como articulos varios. Le gustan los idiomas y planea estudiar más italiano. Disfruta desde pequeña de dar clase y siempre intenta motivar a sus alumnos cons sus estudios.
+<br>
+Recientemente ha decidido tener un hijo con su pareja. Ninguno de los dos dispone de mucho tiempo libre, por lo que reparten las tareas de casa: él se encarga de la limpieza y ella de hacer la compra. Además, están pensando en comprar un coche para poder viajar en el futuro con su hijo de forma cómoda; actualmente solo hacen uso del transporte público.
+[PERSONA 2 - EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA2-EMBARAZADA.pdf)
 
+### 👵 **Anciana** 
+Carmen López, de 83 años, ha vivido toda su vida en Churriana de la Vega. Vive con su esposo Pedro en una casa en el campo y ha sido costurera desde joven.
+Le encanta salir con sus amigas, ir al mercado y pasar tiempo con sus nietos. Con el tiempo, le cuesta más desplazarse y adaptarse a la tecnología, pero está dispuesta a aprender para seguir siendo independiente.
+[PERSONA 3 - ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA3-ANCIANA.pdf)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Hemos elaborado tres experiencias, una por cada persona comentada anteriormente. Creemos que si pueden ser experiencias realistas en vista del perfil que tiene cada persona que se puede ver en el punto anterior.
+### 🏊 **Deportista** 
+[JM: DEPORTISTA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapDeportista_Persona1.pdf)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+### 🤰 **Mujer Embarazada** 
+[JM: MUJER EMBARAZADA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapEmbarazada_Persona2.pdf)
 
+### 👵 **Anciana** 
+[JM: ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapaAnciana_Persona3.pdf)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento:  [DOCUMENTO COMPLETO USABILIDAD](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/UsabilityReviewNatureFoods.pdf)
+- URL y Valoración numérica obtenida: La página [Naturefoods](https://www.naturefoods.es/) ha obtenido una valoracion de 69 (moderada)
+En general, la página web está bien estructurada y es fácil navegar por ella, pero hemos encontrado varios puntos a mejorar:
+  - Incluir información sobre promociones y productos destacado
+  - Cuando se añadan productos al carrito, mostrar un mensaje de confirmación
+  - Incluir una barra de progreso para que, al completar el pago, sepamos en qué punto de la transacción nos encontramos
+  - Si ponemos un campo erróneo, que aparezca dicho error al lado del campo en vez de en la parte superior
+  - Mejorar el tiempo de respuesta del carrito de la compra y del proceso de pago  
 
 <br>
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+Este apartado recoge de forma estructurada las opiniones, necesidades y sugerencias que hemos recopilado durante el proceso de diseño. La malla nos ha permitido identificar patrones, validar ideas y detectar oportunidades de mejora basadas en la experiencia real de los usuarios.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+![Imagen de la malla receptora de informacion](P2/FeedbackCaptureGrid.png)
 
+Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el cual nos permite visualizar el comportamiento de nuestros usuarios identificados en la práctica anterior, así como nuestra propia perspectiva sobre su experiencia de usuario.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![Imagen del Mapa de Empatía](p2/empathy.png)
+
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la huella de carbono mediante un servicio que ofrezca los mejores productos ecológicos con una entrega rápida y poco contaminante. Nos vamos a centrar en las personas que también se preocupan por el futuro de su tierra, fomentando la compra de productos locales granadinos. **Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, donde además se anime a los granadinos a cuidar de su entorno con **noticias, recetas de cocina** y además **talleres** organizados por mercados locales.
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![Imagen del Scope Canvas](scope_canvas.png)
 
 
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+La matriz de tareas incluye las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+![Imagen de la Task Matrix](P2/Task_Analysis_README.PNG)
 
+La matriz completa se puede encontrar en el siguiente archivo pdf, junto a la puntuación de prioridad de cada usuario: [User Task Matrix completa](Task_Analysis.pdf)
+
+A continuación, se muestran los flujos de usuario de las dos tareas más importantes dentro de la plataforma: Iniciar sesión y Añadir productos a la cesta.
+
+![Imagen del User Task Flow](P2/UserTaskFlow.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio
+El sitemap de nuestra página web lo hemos dividido en dos imágenes para facilitar su lectura al igual que el labelling:
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Imagen 1 del sitemap](P2/sitemap_dividido_1.png)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![Imagen 2 del sitemap](P2/sitemap_dividido_2.png)
+
+![Primera imagen del labelling](labelling1.PNG)
+
+![Segunda imagen del labelling](labelling2.PNG)
+
+![Tercera y última imagen del labelling](labelling3.PNG)
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en el Task Analysis, es un diseño a bajo nivel. Podemos ver un posicionamiento orientativo de los botones así como una paleta de colores inicial
+### 🔑 Inicio de sesión
+![Inicio de sesion](P2/inicio_sesion.png)
+### 🛍️ Añadir productos a la cesta  
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+![Añadir productos](P2/añadir_productos.png)
+
+### 🔄 Crear compra frecuente  
+![Compra Frecuente](P2/compra_frecuente.png)
+
+### 📦 Ver cesta  
+![Cesta](P2/ver_cesta.png)
+
+### 💰 Ver descuentos  
+![Descuentos](P2/ver_descuentos.png)
+
 
 <br>
 
