@@ -104,7 +104,7 @@ Este apartado recoge de forma estructurada las opiniones, necesidades y sugerenc
 
 Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el cual nos permite visualizar el comportamiento de nuestros usuarios identificados en la práctica anterior, así como nuestra propia perspectiva sobre su experiencia de usuario.
 
-![Imagen del Mapa de Empatía](p2/empathy.png)
+![Imagen del Mapa de Empatía](P2/empathy.png)
 
 
 
@@ -113,7 +113,7 @@ Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el 
 ----
 En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la huella de carbono mediante un servicio que ofrezca los mejores productos ecológicos con una entrega rápida y poco contaminante. Nos vamos a centrar en las personas que también se preocupan por el futuro de su tierra, fomentando la compra de productos locales granadinos. **Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, donde además se anime a los granadinos a cuidar de su entorno con **noticias, recetas de cocina** y además **talleres** organizados por mercados locales.
 
-![Imagen del Scope Canvas](scope_canvas.png)
+![Imagen del Scope Canvas](P2/scope_canvas.png)
 
 
 
@@ -140,11 +140,11 @@ El sitemap de nuestra página web lo hemos dividido en dos imágenes para facili
 
 ![Imagen 2 del sitemap](P2/sitemap_dividido_2.png)
 
-![Primera imagen del labelling](labelling1.PNG)
+![Primera imagen del labelling](P2/labelling1.PNG)
 
-![Segunda imagen del labelling](labelling2.PNG)
+![Segunda imagen del labelling](P2/labelling2.PNG)
 
-![Tercera y última imagen del labelling](labelling3.PNG)
+![Tercera y última imagen del labelling](P2/labelling3.PNG)
 
 
 ### 2.d Wireframes
