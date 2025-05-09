@@ -15,7 +15,8 @@ Los usuarios pueden realizar compras sin necesidad de registrarse, aunque esto l
 
 Además de ser una plataforma de compra, Tierra Nazarí incluye una sección de talleres y un blog, donde promocionamos productos, compartimos recetas y contenidos relacionados con un estilo de vida sostenible.
 
-![LOGO](P3/logo.png)
+![LOGO](P3/logo.png)  ![LOGO](P3/slogan.png)
+
 
 Miembros:
  * :bust_in_silhouette:  Ángela María Garrido Ruiz     [:octocat:](https://github.com/angelamgr)
