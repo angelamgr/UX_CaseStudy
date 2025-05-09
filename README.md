@@ -24,26 +24,20 @@ Miembros:
  * :bust_in_silhouette:  María Teresa Guerrero Salguero     [:octocat:](https://github.com/Zoroark828)
 
 
------ 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Hemos completado la plantilla proporcionada de User Research para poder mejorar el desarrollo de nuestra página web. Este documento recopila información, análisis de preferencias de usuarios, así como los objetivos generales que pretendemos potenciar. 
+[P1/USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
