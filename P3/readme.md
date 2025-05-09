@@ -21,7 +21,18 @@ Con esta paleta queremos transmitir la esencia ecológica de nuestra propuesta y
 ![Imagen del Moodboard](Moodboard.jpg)
 
 # 💻 Landing Page
+Nuestra landingpage sigue el estilo visual elegido en el moodboard. Dado que su propósito principal es convertir a los visitantes en clientes potenciales o reales, hemos estructurado su diseño teniendo en cuenta los siguientes elementos:
 
+- El nombre y el logotipo se encuentran visibles desde el principio y se distinguen con claridad.
+
+- Se indica de forma evidente que se trata de una web, al tener ese diseño apaisado, 
+
+- Se presenta un aliciente para conseguir nuevos registros.
+
+- Se comunica claramente el propósito de la aplicación, su temática y su utilidad.
+
+Con estos elementos, consideramos que hemos logrado una landing page atractiva, clara y con un mensaje directo.
+![Imagen del Moodboard](LANDING_PAGE.jpg)
 
 
 # 🧩 Mockup: Layout Hi-Fi
