@@ -7,13 +7,15 @@ Actualizado: 22/03/2025
 
 Proyecto: Tierra Narazí 
 
-Descripción: 
+**Descripción:** 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto consiste en una página web que permite comprar productos ecológicos de proximidad de forma rápida, personalizada y sencilla. Tierra Nazarí está diseñada tanto para consumidores como para agricultores, ya que a través de la sección "Trabaja con nosotros", los productores granadinos pueden dar a conocer y ofrecer sus productos directamente.
 
-Logotipo: 
+Los usuarios pueden realizar compras sin necesidad de registrarse, aunque esto les limita el acceso a funciones avanzadas. Por una suscripción de 10 € mensuales, los clientes registrados pueden disfrutar de funcionalidades "premium", como la creación de una lista de productos frecuentes que les permite hacer sus compras con un solo clic.
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+Además de ser una plataforma de compra, Tierra Nazarí incluye una sección de talleres y un blog, donde promocionamos productos, compartimos recetas y contenidos relacionados con un estilo de vida sostenible.
+
+![LOGO](P3/logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Ángela María Garrido Ruiz     [:octocat:](https://github.com/angelamgr)
