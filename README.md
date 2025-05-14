@@ -1,11 +1,11 @@
-# DIU25
+# 🌍 **PRÁCTICAS DIU-25**
 Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos) 
 
 Grupo: DIU1.LasTres.  Curso: 2024/25 
 
 Actualizado: 22/03/2025
 
-Proyecto: Tierra Narazí 
+Proyecto: **Tierra Narazí** 🌱 
 
 **Descripción:** 
 
@@ -23,19 +23,18 @@ Miembros:
  * :bust_in_silhouette:  Camelia Peña Alcón     [:octocat:](https://github.com/gangnamteam)
  * :bust_in_silhouette:  María Teresa Guerrero Salguero     [:octocat:](https://github.com/Zoroark828)
 
-
-# Proceso de Diseño 
-
+# 📊 **Proceso de Diseño**
 <br>
 
-## Paso 1. UX User & Desk Research & Analisis 
-### 1.a User Reseach Plan
+## 1️⃣ **Paso 1. UX User & Desk Research & Análisis**
+
+### 1.a **User Research Plan** 📑
 ![Método UX](img/Competitive.png) 
 -----
 Hemos completado la plantilla proporcionada de User Research para poder mejorar el desarrollo de nuestra página web. En el documento adjunto podremos ver en profundidad los distintos puntos abarcados en el estudio como por ejemplo: los objetivos, los métodos de investigación y las personas que serán nuestro público.
 [USER RESEARCH PLAN.pdf](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
 
-### 1.b Competitive Analysis
+### 1.b **Competitive Analysis** 🏆
 ![Método UX](img/Competitive.png) 
 -----
 Nuestro objetivo es desarrollar una web para la venta online de productos ecológicos. Antes de comenzar con el desarrollo, hemos estudiado a la competencia, analizando los siguientes negocios: **Valley Vega, Ecomercado de Granada y Naturefoods**
@@ -48,7 +47,7 @@ Tras estudiar los distintos competidores hemos llevado a cabo una comparación d
 
 En el documento adjunto se puede ver más información sobre cada una de las empresas y la tabla comparativa en profundidad. [DOCUMENTO COMPLETO](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/AN%C3%81LISIS%20COMPETITIVO.pdf)
 
-### 1.c Personas
+### 1.c **Personas** 🧑‍🤝‍🧑
 ![Método UX](img/Persona.png) 
 -----
 ### 🏊 **Deportista**
@@ -66,7 +65,7 @@ Carmen López, de 83 años, ha vivido toda su vida en Churriana de la Vega. Vive
 Le encanta salir con sus amigas, ir al mercado y pasar tiempo con sus nietos. Con el tiempo, le cuesta más desplazarse y adaptarse a la tecnología, pero está dispuesta a aprender para seguir siendo independiente.
 [PERSONA 3 - ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/PERSONA3-ANCIANA.pdf)
 
-### 1.d User Journey Map
+### 1.d **User Journey Map** 🛤️
 ![Método UX](img/JourneyMap.png) 
 ----
 Hemos elaborado tres experiencias, una por cada persona comentada anteriormente. Creemos que si pueden ser experiencias realistas en vista del perfil que tiene cada persona que se puede ver en el punto anterior.
@@ -79,7 +78,7 @@ Hemos elaborado tres experiencias, una por cada persona comentada anteriormente.
 ### 👵 **Anciana** 
 [JM: ANCIANA](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/JourneyMapaAnciana_Persona3.pdf)
 
-### 1.e Usability Review
+### 1.e **Usability Review** 🔍
 ![Método UX](img/usabilityReview.png) 
 ----
 - Enlace al documento:  [DOCUMENTO COMPLETO USABILIDAD](https://github.com/angelamgr/UX_CaseStudy/blob/master/P1/UsabilityReviewNatureFoods.pdf)
@@ -93,9 +92,9 @@ En general, la página web está bien estructurada y es fácil navegar por ella,
 
 <br>
 
-## Paso 2. UX Design  
+## 2️⃣ **Paso 2. UX Design**
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a **Reframing / IDEACIÓN**: Feedback Capture Grid / Empathy map 🎨
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 Este apartado recoge de forma estructurada las opiniones, necesidades y sugerencias que hemos recopilado durante el proceso de diseño. La malla nos ha permitido identificar patrones, validar ideas y detectar oportunidades de mejora basadas en la experiencia real de los usuarios.
@@ -108,7 +107,7 @@ Para desarrollar nuestra propuesta, hemos elaborado un **mapa de empatía**, el 
 
 
 
-### 2.b ScopeCanvas
+### 2.b **Scope Canvas** 📝
 ![Método UX](img/ScopeCanvas.png)
 ----
 En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la huella de carbono mediante un servicio que ofrezca los mejores productos ecológicos con una entrega rápida y poco contaminante. Nos vamos a centrar en las personas que también se preocupan por el futuro de su tierra, fomentando la compra de productos locales granadinos. **Tierra Nazarí** será una página web dedicada a la **promoción y venta de productos ecológicos**, donde además se anime a los granadinos a cuidar de su entorno con **noticias, recetas de cocina** y además **talleres** organizados por mercados locales.
@@ -117,7 +116,7 @@ En nuestra empresa nos preocupamos por el medioambiente. Queremos reducir la hue
 
 
 
-### 2.b User Flow (task) analysis 
+### 2.b **User Flow (task) analysis** 🔄
 ![Método UX](img/Sitemap.png) 
 -----
 La matriz de tareas incluye las principales acciones que los diferentes tipos de usuarios pueden realizar en la plataforma. Esta representación permite visualizar qué funcionalidades están disponibles para cada perfil (usuarios registrados, no registrados y proveedores), ayudando a enfocar el diseño centrado en el usuario y la priorización de funcionalidades clave. Además, cada tarea incluye una breve descripción para facilitar su comprensión.
@@ -130,7 +129,7 @@ A continuación, se muestran los flujos de usuario de las dos tareas más import
 
 ![Imagen del User Task Flow](P2/UserTaskFlow.png)
 
-### 2.c IA: Sitemap + Labelling 
+### 2.c IA: Sitemap + Labelling 🗺️
 ![Método UX](img/labelling.png) 
 ----
 Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio
@@ -147,7 +146,7 @@ El sitemap de nuestra página web lo hemos dividido en dos imágenes para facili
 ![Tercera y última imagen del labelling](P2/labelling3.PNG)
 
 
-### 2.d Wireframes
+### 2.d Wireframes 🖥️
 ![Método UX](img/Wireframes.png) 
 -----
 Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en el Task Analysis, es un diseño a bajo nivel. Podemos ver un posicionamiento orientativo de los botones así como una paleta de colores inicial
