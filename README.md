@@ -120,7 +120,7 @@ A continuación, se muestran los flujos de usuario de las dos tareas más import
 
 ![Imagen del User Task Flow](P2/UserTaskFlow.png)
 
-### 2.c IA: Sitemap + Labelling 🗺️
+### 2.c **IA: Sitemap + Labelling** 🗺️
 
 Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio
 El sitemap de nuestra página web lo hemos dividido en dos imágenes para facilitar su lectura al igual que el labelling:
@@ -136,7 +136,7 @@ El sitemap de nuestra página web lo hemos dividido en dos imágenes para facili
 ![Tercera y última imagen del labelling](P2/labelling3.PNG)
 
 
-### 2.d Wireframes 🖥️
+### 2.d **Wireframes** 🖥️
 
 Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en el Task Analysis, es un diseño a bajo nivel. Podemos ver un posicionamiento orientativo de los botones así como una paleta de colores inicial
 ### 🔑 Inicio de sesión
@@ -157,50 +157,49 @@ Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en e
 
 <br>
 
-## Paso 3. Mi UX-Case Study (diseño)
+## 3️⃣ **Paso 3. Mi UX-Case Study (diseño)**
+### 3.a **Moodboard** 🎨
+Mostramos nuestro moodboard, donde definimos la guía de estilo visual de nuestra aplicación. En la imagen se incluyen los elementos clave —como el logotipo, la tipografía y la paleta de colores— junto con la explicación de por qué se ha elegido cada uno de ellos.
+## 🔰 Nuestro logo
+Para representar a nuestra plataforma hemos elegido el logotipo que se puede ver en el **Moodboard**.  
+Este logo hace referencia a los productos orgánicos que queremos vender en nuestra web, con tonos verdes.
+Además, también representa nuestro deseo de trabajar de la mano con los productores de estos alimentos, simbolizado por el **tractor** que aparece en el centro del logo.
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+## 📝 Nuestro slogan > *El futuro de Granada se cultiva hoy*
+Creemos que cada decisión que tomamos como consumidores tiene un impacto real en nuestro entorno. En Tierra Nazarí, apostamos por un modelo de consumo responsable que favorece a nuestra tierra, a nuestros productores y a las generaciones que vienen.   Cultivar el futuro no es solo sembrar productos, es también sembrar conciencia, colaboración y compromiso. Cada producto local que eliges es una apuesta por un planeta más verde.
 
+## 🎨 Nuestra paleta de colores
+La paleta de colores elegida está compuesta por los tonos que se pueden apreciar en la imagen del Moodboard.
 
-### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
+- 🟢 **Verdes**: evocan la vegetación local.
+- 🔵 **Azules**: recuerdan al cielo despejado de Granada.
+- 🟠 **Naranja intenso**: refleja los días soleados tan característicos de la región.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Con esta paleta queremos transmitir la esencia ecológica de nuestra propuesta y el espíritu de la ciudad.
+![Imagen del Moodboard](P3/Moodboard.jpg)
 
+### 3.b **Landing Page** 💻
+Nuestra landingpage sigue el estilo visual elegido en el moodboard. Dado que su propósito principal es convertir a los visitantes en clientes potenciales o reales, hemos estructurado su diseño teniendo en cuenta los siguientes elementos:
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+- El nombre y el logotipo se encuentran visibles desde el principio y se distinguen con claridad.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+- Se indica de forma evidente que se trata de una web, al tener ese diseño apaisado, 
 
+- Se presenta un aliciente para conseguir nuevos registros.
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+- Se comunica claramente el propósito de la aplicación, su temática y su utilidad.
 
+Con estos elementos, consideramos que hemos logrado una landing page atractiva, clara y con un mensaje directo.
+![Imagen del Moodboard](P3/LANDING_PAGE.jpg)
+
+### 3.c **Guidelines** 📑
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
+### 3.d **Mockup** 🧩
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-<br>
 
 ## Paso 4. Pruebas de Evaluación 
 
