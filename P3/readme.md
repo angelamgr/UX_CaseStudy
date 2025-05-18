@@ -35,21 +35,26 @@ Con estos elementos, consideramos que hemos logrado una landing page atractiva, 
 ![Imagen del Moodboard](LANDING_PAGE.jpg)
 
 # 🧩 Guidelines
-La información sobre los patrones de diseño se ha extraído del material proporcionado para hacer la práctica. En el pdf que presentamos explica los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui 
+La información sobre los patrones de diseño se ha extraído del material proporcionado para hacer la práctica. En el pdf que presentamos explica los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui [PDF Guidelines](GUIDELINES.pdf) 
 
 # 🧩 Mockup: Layout Hi-Fi
 Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados.
 
 Hemos realizado un vídeo donde se ve la funcionalidad del sistema:
 
-Adjuntamos también un documento donde se pueden ver todos los diseños, accesible en este enlace:
+Adjuntamos también un documento donde se pueden ver todos los diseños, accesible en este enlace: [PDF layouts](Layout.pdf)
 
 ![Imagen Layout 1](Layout_parte1.jpg)
 ![Imagen Layout 2](Layout_parte2.jpg)
 
 
-# ✅ Conclusiones
 
+# ✅ Conclusiones
+Tras la realización de este proyecto hemos obtenido el diseño final de nuestro prototipo del sistema. Gracias al proceso de desarrollo seguido hemos podido crear un prototipo claro, limpio y que consideramos que cumple con los requisitos de usabilidad. 
+
+Como se ha comentado hemos utilizado los materiales proporcionados por el profesorado para realizar dicho prototipos por lo que se puede ver que hemos llevado a cabo los patrones de diseño especificados en los Guidelines para obtener nuestro layout. 
+
+El trabajo del equipo ha sido bueno, manteniendo una comunicación clara y una asignación de tareas estructurada. Una pequeña dificultad encontrada ha sido el uso de la herramienta Figma para el prototipado ya que no se había usado antes. 
 
 
 
