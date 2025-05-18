@@ -34,7 +34,7 @@ Nuestra landingpage sigue el estilo visual elegido en el moodboard. Dado que su 
 Con estos elementos, consideramos que hemos logrado una landing page atractiva, clara y con un mensaje directo.
 ![Imagen del Moodboard](LANDING_PAGE.jpg)
 
-# 🧩 Guidelines
+# 📑 Guidelines
 La información sobre los patrones de diseño se ha extraído del material proporcionado para hacer la práctica. En el pdf que presentamos explica los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui [PDF Guidelines](GUIDELINES.pdf) 
 
 # 🧩 Mockup: Layout Hi-Fi
