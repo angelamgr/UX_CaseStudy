@@ -40,7 +40,7 @@ La información sobre los patrones de diseño se ha extraído del material propo
 # 🧩 Mockup: Layout Hi-Fi
 Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados.
 
-Hemos realizado un vídeo donde se ve la funcionalidad del sistema:
+Hemos realizado un vídeo donde se ve la funcionalidad del sistema:[Video_layouts](Video_layout.mp4)
 
 Adjuntamos también un documento donde se pueden ver todos los diseños, accesible en este enlace: [PDF layouts](Layout.pdf)
 
