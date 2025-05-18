@@ -34,16 +34,22 @@ Nuestra landingpage sigue el estilo visual elegido en el moodboard. Dado que su 
 Con estos elementos, consideramos que hemos logrado una landing page atractiva, clara y con un mensaje directo.
 ![Imagen del Moodboard](LANDING_PAGE.jpg)
 
+# 🧩 Guidelines
+La información sobre los patrones de diseño se ha extraído del material proporcionado para hacer la práctica. En el pdf que presentamos explica los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui 
 
 # 🧩 Mockup: Layout Hi-Fi
+Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados.
 
+Hemos realizado un vídeo donde se ve la funcionalidad del sistema:
 
+Adjuntamos también un documento donde se pueden ver todos los diseños, accesible en este enlace:
 
-# 📚 Publicación del Case Study
-
+![Imagen Layout 1](Layout_parte1.jpg)
+![Imagen Layout 2](Layout_parte2.jpg)
 
 
 # ✅ Conclusiones
+
 
 
 
