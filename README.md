@@ -160,20 +160,20 @@ Hemos realizado los prototipos de las cinco primeras tareas que podemos ver en e
 ## 3️⃣ **Paso 3. Mi UX-Case Study (diseño)**
 ### 3.a **Moodboard** 🎨
 Mostramos nuestro moodboard, donde definimos la guía de estilo visual de nuestra aplicación. En la imagen se incluyen los elementos clave —como el logotipo, la tipografía y la paleta de colores— junto con la explicación de por qué se ha elegido cada uno de ellos.
-#### 🔰 Nuestro logo
+#### Nuestro logo
 Para representar a nuestra plataforma hemos elegido el logotipo que se puede ver en el **Moodboard**.  
 Este logo hace referencia a los productos orgánicos que queremos vender en nuestra web, con tonos verdes.
 Además, también representa nuestro deseo de trabajar de la mano con los productores de estos alimentos, simbolizado por el **tractor** que aparece en el centro del logo.
 
-#### 📝 Nuestro slogan > *El futuro de Granada se cultiva hoy*
+#### Nuestro slogan > *El futuro de Granada se cultiva hoy*
 Creemos que cada decisión que tomamos como consumidores tiene un impacto real en nuestro entorno. En Tierra Nazarí, apostamos por un modelo de consumo responsable que favorece a nuestra tierra, a nuestros productores y a las generaciones que vienen.   Cultivar el futuro no es solo sembrar productos, es también sembrar conciencia, colaboración y compromiso. Cada producto local que eliges es una apuesta por un planeta más verde.
 
-#### 🎨 Nuestra paleta de colores
+#### Nuestra paleta de colores
 La paleta de colores elegida está compuesta por los tonos que se pueden apreciar en la imagen del Moodboard.
 
-- 🟢 **Verdes**: evocan la vegetación local.
-- 🔵 **Azules**: recuerdan al cielo despejado de Granada.
-- 🟠 **Naranja intenso**: refleja los días soleados tan característicos de la región.
+- **Verdes**: evocan la vegetación local.
+- **Azules**: recuerdan al cielo despejado de Granada.
+- **Naranja intenso**: refleja los días soleados tan característicos de la región.
 
 Con esta paleta queremos transmitir la esencia ecológica de nuestra propuesta y el espíritu de la ciudad.
 ![Imagen del Moodboard](P3/Moodboard.jpg)
@@ -193,13 +193,19 @@ Con estos elementos, consideramos que hemos logrado una landing page atractiva, 
 ![Imagen del Moodboard](P3/LANDING_PAGE.jpg)
 
 ### 3.c **Guidelines** 📑
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+La información sobre los patrones de diseño se ha extraído del material proporcionado para hacer la práctica. En el pdf que presentamos explica los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui [PDF Guidelines](P3/GUIDELINES.pdf) 
 
 
 ### 3.d **Mockup** 🧩
+Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados en el punto anterior.
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+![Imagen Layout 1](P3/Layout_parte1.jpg)
+![Imagen Layout 2](P3/Layout_parte2.jpg)
+
+
+Tras la realización de este proyecto hemos obtenido el diseño final de nuestro prototipo del sistema. Gracias al proceso de desarrollo seguido hemos podido crear un prototipo claro, limpio y que consideramos que cumple con los requisitos de usabilidad. 
+
+El trabajo del equipo ha sido bueno, manteniendo una comunicación clara y una asignación de tareas estructurada. Una pequeña dificultad encontrada ha sido el uso de la herramienta Figma para el prototipado ya que no se había usado antes. 
 
 ## Paso 4. Pruebas de Evaluación 
 
