@@ -15,10 +15,10 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 
 | 🆔 ID | 👤 Sexo / Edad | 💼 Ocupación | 🌐 Experiencia en Internet | 📱 Plataforma | 🧩 Perfil cubierto | 🧪 Test | 📊 SUS Score |
 |------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
-| U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | --            |
-| U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando su movil a diario, además de una tablet y un PC. | A       | --            |
-| U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. Le incomodan los menús complejos. | B       | --            |
-| U4   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | --            |
+| U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | 68            |
+| U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando su movil a diario, además de una tablet y un PC. | A       | 80            |
+| U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. Le incomodan los menús complejos. | B       | 63            |
+| U4   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
 
 <br>
 <br>
