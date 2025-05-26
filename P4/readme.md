@@ -7,7 +7,7 @@ Sus diseños se pueden encontar aquí: [Prototipos](https://www.figma.com/proto/
 # 👥 Users. Elección y características de los usuarios reclutados
 Para evaluar la usabilidad de su aplicación hemos elegido 4 personas con diferentes características:
 - Una mujer de 50 años con poca experiencia usando tecnología
-- Un joven de 20 años con buen manejo de la tecnología
+- Una joven de 19 años con buen manejo de la tecnología
 - Un hombre de 40 años con baja experiencia
 - Una mujer de 30 con mucha experiencia
 
@@ -17,7 +17,7 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 |------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
 | U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | --            |
 | U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando su movil a diario, además de una tablet y un PC. | A       | --            |
-| U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Comercial que usa el iPhone principalmente para tareas básicas. Le incomodan los menús complejos. | B       | --            |
+| U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. Le incomodan los menús complejos. | B       | --            |
 | U4   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | --            |
 
 
