@@ -23,13 +23,13 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 
 # 🧪 Diseño de las pruebas
 
-# ✅ Realización del Cuestionario SUS para usuarios y casos A y B.
+## ✅ SUS QUESTIONNAIRE
 
-# 📋 Tabla A/B Testing con resultados para A y B
+## 📋 A/B Testing
 
-# 👁️ Eye Tracking para B
+## 👁️ Eye Tracking
 
-# 🧾 Usability Report del Caso B, con toda la información recabada del caso B
+# 🧾 Usability Report del Caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
