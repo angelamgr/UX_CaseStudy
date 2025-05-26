@@ -33,16 +33,16 @@ Una vez los cuatro usuarios habían respondido, descargamos las respuestas en un
 
 En resumen, los resultados de cada usuario han sido:
 - Usuaria 2 (mujer 19 años, prototipo A, Tierra Nazarí)
- - Con un SUS de 80, considera que este prototipo tiene una **usabilidad muy buena**.
+  - Con un SUS de 80, considera que este prototipo tiene una **usabilidad muy buena**.
 
 - Usuaria 1 (mujer de 50 años, prototipo A, Tierra Nazarí):
- - SUS de 67'5. A pesar de que este usuario tiene muy poca experiencia en el uso de internet y tecnologías, este es un resultado de **usabilidad aceptable**.
+  - SUS de 67'5. A pesar de que este usuario tiene muy poca experiencia en el uso de internet y tecnologías, este es un resultado de **usabilidad aceptable**.
 
 - Usuaria 4 (mujer de 30 años, prototipo B, Kerarqueo):
- - SUS de 52'5. Valora la app como adecuada, y considera que tiene una **usabilidad aceptable**. Pese a su uso de la tecnología a diario, esta usuaria considera que la aplicación podría ser más compleja para usuarios con menos experiencia.
+  - SUS de 52'5. Valora la app como adecuada, y considera que tiene una **usabilidad aceptable**. Pese a su uso de la tecnología a diario, esta usuaria considera que la aplicación podría ser más compleja para usuarios con menos experiencia.
 
 - Usuario 3 (hombre de 40 años, prototipo B, Kerarqueo):
- - SUS de 62'5. Según el cuestionario, este usuario se sintió sorprendentemente cómodo usando la app pese a su poco uso de tecnologías. Esta escala sus considera a este prototipo con una **usabilidad aceptable**.
+  - SUS de 62'5. Según el cuestionario, este usuario se sintió sorprendentemente cómodo usando la app pese a su poco uso de tecnologías. Esta escala sus considera a este prototipo con una **usabilidad aceptable**.
 
 <br>
 
