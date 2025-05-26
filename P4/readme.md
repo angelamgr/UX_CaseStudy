@@ -16,7 +16,7 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 | 🆔 ID | 👤 Sexo / Edad | 💼 Ocupación | 🌐 Experiencia en Internet | 📱 Plataforma | 🧩 Perfil cubierto | 🧪 Test | 📊 SUS Score |
 |------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
 | U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | --            |
-| U2   | Hombre / 20    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de Biotecnología que pasa muchas horas frente a dispositivos. Tiene experiencia con prototipos y navegación digital. | A       | --            |
+| U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando su movil a diario, además de una tablet y un PC. | A       | --            |
 | U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Comercial que usa el iPhone principalmente para tareas básicas. Le incomodan los menús complejos. | B       | --            |
 | U4   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | --            |
 
