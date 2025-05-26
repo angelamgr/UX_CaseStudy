@@ -7,6 +7,9 @@ Actualizado: 22/03/2025
 
 Proyecto: **Tierra Narazí** 🌱 
 
+Enlace al prototipo de figma:
+https://www.figma.com/proto/VX0qPh9szw2rsTafreeMu4/Layout?node-id=1-2&t=xshx9AxdLnKBxPzi-1&starting-point-node-id=1%3A2&scaling=contain&content-scaling=fixed
+
 **Descripción:** 
 
 Nuestro proyecto consiste en una página web que permite comprar productos ecológicos de proximidad de forma rápida, personalizada y sencilla. Tierra Nazarí está diseñada tanto para consumidores como para agricultores, ya que a través de la sección "Trabaja con nosotros", los productores granadinos pueden dar a conocer y ofrecer sus productos directamente.
@@ -197,7 +200,7 @@ La información sobre los patrones de diseño se ha extraído del material propo
 
 
 ### 3.d **Mockup** 🧩
-Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados en el punto anterior.
+Tras la realización de los documentos anteriores hemos definido nuestro prototipo final en figma, en el cual aplicamos los estilos elegidos así como los patrones comentados en el punto anterior. Enlace: https://www.figma.com/proto/VX0qPh9szw2rsTafreeMu4/Layout?node-id=1-2&t=xshx9AxdLnKBxPzi-1&starting-point-node-id=1%3A2&scaling=contain&content-scaling=fixed
 
 ![Imagen Layout 1](P3/Layout_parte1.jpg)
 ![Imagen Layout 2](P3/Layout_parte2.jpg)
