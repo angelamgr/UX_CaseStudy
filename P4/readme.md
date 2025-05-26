@@ -20,8 +20,9 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 | U3   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. Le incomodan los menús complejos. | B       | --            |
 | U4   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | --            |
 
----
----
+<br>
+<br>
+
 
 # 🧪 Diseño de las pruebas
 
@@ -32,26 +33,28 @@ Una vez los cuatro usuarios habían respondido, descargamos las respuestas en un
 
 En resumen, los resultados de cada usuario han sido:
 - Usuaria 2 (mujer 19 años, prototipo A, Tierra Nazarí)
--- Con un SUS de 80, considera que este prototipo tiene una **usabilidad muy buena**.
+ - Con un SUS de 80, considera que este prototipo tiene una **usabilidad muy buena**.
 
 - Usuaria 1 (mujer de 50 años, prototipo A, Tierra Nazarí):
--- SUS de 67'5. A pesar de que este usuario tiene muy poca experiencia en el uso de internet y tecnologías, este es un resultado de **usabilidad aceptable**.
+ - SUS de 67'5. A pesar de que este usuario tiene muy poca experiencia en el uso de internet y tecnologías, este es un resultado de **usabilidad aceptable**.
 
 - Usuaria 4 (mujer de 30 años, prototipo B, Kerarqueo):
--- SUS de 52'5. Valora la app como adecuada, y considera que tiene una **usabilidad aceptable**. Pese a su uso de la tecnología a diario, esta usuaria considera que la aplicación podría ser más compleja para usuarios con menos experiencia.
+ - SUS de 52'5. Valora la app como adecuada, y considera que tiene una **usabilidad aceptable**. Pese a su uso de la tecnología a diario, esta usuaria considera que la aplicación podría ser más compleja para usuarios con menos experiencia.
 
 - Usuario 3 (hombre de 40 años, prototipo B, Kerarqueo):
--- SUS de 62'5. Según el cuestionario, este usuario se sintió sorprendentemente cómodo usando la app pese a su poco uso de tecnologías. Esta escala sus considera a este prototipo con una **usabilidad aceptable**.
+ - SUS de 62'5. Según el cuestionario, este usuario se sintió sorprendentemente cómodo usando la app pese a su poco uso de tecnologías. Esta escala sus considera a este prototipo con una **usabilidad aceptable**.
 
----
+<br>
 
 Viendo estos resultados de la encuesta SUS, podemos apreciar que los dos usuarios que han probado el prototipo A (Tierra Nazarí) la han considerado más cómoda que la propuesta B (Kerarqueo). Según sus respuestas, podemos deducir que el primer prototipo cuenta con una interfaz más clara que la segunda y que, por tanto, puede resultar más navegable para personas con menor manejo de las tecnologías.
 
----
+<br>
+
 
 Por tanto, según este método, existiría una preferencia sobre el **prototipo A**, ya que la usabilidad del prototipo B se ha considerado solamente aceptable.
 
----
+<br>
+
 
 ## 📋 A/B Testing
 
