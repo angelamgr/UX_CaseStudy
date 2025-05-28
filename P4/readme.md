@@ -20,7 +20,7 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 | U3   | Hombre / 22     | Estudiante    | Avanzado                   | Android, Linux  | Está cursando Ingeniería Informática con nosotras, por lo que tiene mucha experiencia con las tecnologías. | A       | -            |
 | U4   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. | B       | 63            |
 | U5   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
-| U6   | Hombre / 21     | Estudiante    | Avanzado                   | Linux, Android  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | -            |
+| U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | -            |
 
 <br>
 <br>
