@@ -17,10 +17,10 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 |------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
 | U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | 68            |
 | U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando el movil a diario, además de una tablet y un PC. | A       | 80            |
-| U3   | Hombre / 22     | Estudiante    | Avanzado                   | Android, Linux  | Está cursando Ingeniería Informática con nosotras, por lo que tiene mucha experiencia con las tecnologías. | A       | -            |
+| U3   | Hombre / 22     | Estudiante    | Avanzado                   | Android, Linux  | Está cursando Ingeniería Informática con nosotras, por lo que tiene mucha experiencia con las tecnologías. | A       | 75            |
 | U4   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. | B       | 63            |
 | U5   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
-| U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | -            |
+| U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | 68            |
 
 <br>
 <br>
@@ -33,9 +33,9 @@ Para esta prueba le pedimos a los 4 usuarios del estudio que probaran el prototi
 
 Una vez los cuatro usuarios habían respondido, descargamos las respuestas en un excel y añadimos una nueva columna que utiliza la formula para calcular la escala SUS de cada usuario (formula explicada en el artículo del guión de prácticas). El excel en formato pdf con estos resultados se puede encontrar en: [SUS Questionnaire](./sus_results.pdf).
 
-[Resumir]
-
 <br>
+
+Según estos resultados, la puntuación SUS para el prototipo A es 74 y la del prototipo B 61. 
 
 Viendo estos resultados de la encuesta SUS, podemos apreciar que los dos usuarios que han probado el prototipo A (Tierra Nazarí) la han considerado más cómoda que la propuesta B (Kerarqueo). Según sus respuestas, podemos deducir que el primer prototipo cuenta con una interfaz más clara que la segunda y que, por tanto, puede resultar más navegable para personas con menor manejo de las tecnologías.
 
