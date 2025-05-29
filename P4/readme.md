@@ -47,9 +47,13 @@ Por tanto, según este método, existiría una preferencia sobre el **prototipo 
 <br>
 
 
-## 📋 A/B Testing
-
 ## 👁️ Eye Tracking
+Con el objetivo de evaluar la calidad del diseño de la interfaz y determinar qué secciones captan en mayor medida la atención del usuario, se ha utilizado la herramienta RealEye. Esta aplicación genera mapas de calor y gráficas asociadas que indican las zonas donde la mirada del usuario se mantiene durante más tiempo.
+
+Se han llevado a cabo dos pruebas correspondientes al caso B. En el caso A, surgieron una serie de problemas técnicos que se detallan en el documento adjunto. En ese mismo documento puede consultarse un análisis completo del estudio realizado para el caso B. 
+
+ [Eye Tracking](Eye_Tracking.pdf)
+
 
 # 🧾 Usability Report del Caso B
 
