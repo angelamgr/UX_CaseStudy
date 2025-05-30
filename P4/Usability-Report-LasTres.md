@@ -114,7 +114,9 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Las pruebas de usabilidad han revelado que **Tierra Nazarí** presenta un diseño funcional y visualmente atractivo, con una experiencia de usuario en general satisfactoria, especialmente para usuarios con experiencia tecnológica. El análisis conjunto del test SUS y del eye tracking ha permitido identificar fortalezas claras, así como áreas concretas que pueden mejorarse para optimizar la navegación y la accesibilidad.
+
+La **puntuación media del test SUS** fue de **74,17**, lo que sitúa la usabilidad de la plataforma en un rango **"bueno"** según la escala internacional. Esto significa que la mayoría de usuarios se sintieron cómodos navegando por el sitio y entendieron bien sus funcionalidades principales.
 
 
 
@@ -126,13 +128,21 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+**Puntos positivos a destacar:**
+- Diseño visual atractivo, alineado con la temática ecológica.
+- Coherencia en estilos, navegación clara y etiquetas comprensibles.
+- Flujo de tareas como el inicio de sesión, añadir a la cesta y ver descuentos es intuitivo para la mayoría de perfiles.
+- El sistema permite completar compras de manera fluida para usuarios con experiencia.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+- Hacer más visible la funcionalidad de **compra frecuente**, ya que actualmente se encuentra demasiado escondida dentro de la lista de productos.
+- Permitir aplicar códigos de descuento directamente desde la vista de descuentos, en lugar de obligar al usuario a llegar hasta el carrito final.
+- Añadir un **selector de cantidad** antes de añadir productos al carrito, evitando tener que modificarlos dentro de la cesta.
+- Incluir un pequeño mensaje o tooltip que indique que solo se puede aplicar **un descuento por compra**.
+- Añadir una breve **guía interactiva o tutorial inicial** para usuarios con baja alfabetización digital.
 
 
 
@@ -142,4 +152,5 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La práctica de evaluación ha sido muy útil para detectar errores y oportunidades de mejora que no eran evidentes desde la perspectiva del equipo de diseño. Herramientas como el test SUS y el intento de eye tracking nos han permitido validar nuestras hipótesis y priorizar mejoras objetivas. La experiencia ha sido enriquecedora y nos ha ayudado a entender mejor el comportamiento real del usuario, fortaleciendo así nuestra capacidad de diseñar pensando en sus necesidades.
+
