@@ -87,9 +87,9 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 #### Resultados obtenidos
 
+#### Resultados SUS
 
-
-[(resultado de SUS)](https://github.com/angelamgr/UX_CaseStudy/blob/58ebfbe0f3dfb7d6b00f82267f02ccd6d1eb760a/P4/sus_results.png)
+<img src="https://github.com/angelamgr/UX_CaseStudy/blob/58ebfbe0f3dfb7d6b00f82267f02ccd6d1eb760a/P4/sus_results.png" alt="sus_results">
 
 
 
