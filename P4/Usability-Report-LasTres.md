@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### TIERRA NAZARÍ
 
-### (Fecha)
+### 30/05/2025
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-### Realizado por:
+### Realizado por: DIU.LasTres
 
 [Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
 
