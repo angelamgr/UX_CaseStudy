@@ -68,7 +68,12 @@ Se analizaron las funciones principales de la web, especialmente aquellas relaci
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Se utilizaron las siguientes técnicas:
+- **A/B Testing** con usuarios reales comparando dos versiones de la interfaz.
+- **SUS (System Usability Scale)** para evaluar la percepción subjetiva de usabilidad.
+- **Eye Tracking** usando imágenes estáticas del prototipo para identificar áreas de interés y puntos ignorados.
+
+Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La herramienta principal utilizada fue Maze, junto a Gaze Recorder para los mapas de calor.
 
  
 
