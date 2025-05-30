@@ -48,9 +48,13 @@ Nuestra experiencia ha sido positiva: hemos trabajado con herramientas como Figm
 
 
 
-[ Breve descripción de lo que contiene el documento 
+Este informe recoge los resultados de una evaluación de usabilidad mediante pruebas de usuario, test SUS y eye tracking sobre el prototipo de *Tierra Nazarí*.  
+Se analizaron las funciones principales de la web, especialmente aquellas relacionadas con la compra, la navegación y el acceso a información adicional (talleres, descuentos, blogs).
 
-y Resumen conciso de problemas detectados ]
+### Problemas detectados:
+- No se localiza rápidamente el acceso a la funcionalidad de "compra frecuente", ya que se encuentra en el apartado de Lista de productos y hay que entrar en la lista para poder realizar la compra.
+- Hay un apartado de descuentos donde aparecen los códigos, pero no se puede clickar directamente desde ahí para aplicarlo, sino que hay que ir hasta el paso final del carrito e introducir el código. Tampoco se indica que solo se puede aplicar un descuento por compra.
+- Si se quiere añadir a la cesta varias unidades del mismo producto hay que entrar en la cesta para sumarlos uno a uno en lugar de poder seleccionar una cantidad en concreto.
 
 
 
