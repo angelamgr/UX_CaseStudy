@@ -91,13 +91,13 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 <img src="https://github.com/angelamgr/UX_CaseStudy/blob/58ebfbe0f3dfb7d6b00f82267f02ccd6d1eb760a/P4/sus_results.png" alt="sus_results">
 
-#### Resultados Eyetracking:
+#### Resultados Eyetracking (Acceder al catálogo de productos):
 
-(resultado de eyetracking)
+<img src="https://github.com/angelamgr/UX_CaseStudy/blob/89940f50d183706241b851bdb35fb955491196ac/P4/eye_tracking_catalogo.png" alt="eye_tracking_catalogo">
 
+#### Resultados Eyetracking (Realizar una compra):
 
-
-
+<img src="https://github.com/angelamgr/UX_CaseStudy/blob/89940f50d183706241b851bdb35fb955491196ac/P4/eye_tracking_compra.png" alt="eye_tracking_compra">
 
 
 
