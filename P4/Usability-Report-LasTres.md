@@ -89,7 +89,7 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 
 
-(resultado de SUS)
+[(resultado de SUS)](https://github.com/angelamgr/UX_CaseStudy/blob/58ebfbe0f3dfb7d6b00f82267f02ccd6d1eb760a/P4/sus_results.png)
 
 
 
