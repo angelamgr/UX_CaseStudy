@@ -24,7 +24,7 @@
 
 ### Realizado por: DIU.LasTres
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Nuestra experiencia ha sido positiva: hemos trabajado con herramientas como Figma y Canva para desarrollar un prototipo funcional de una plataforma de venta de productos ecológicos locales. Esta evaluación de usabilidad ha servido como paso clave para validar nuestras ideas, detectar problemas reales de uso y plantear mejoras realistas.
 
 
 
@@ -38,7 +38,7 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+**Tierra Nazarí** es una plataforma web centrada en la venta de productos ecológicos de Granada. Su objetivo es promover el consumo responsable y sostenible, conectando a los consumidores con proveedores locales. La plataforma permite comprar productos ecológicos, suscribirse a talleres, leer recetas y artículos, y gestionar compras frecuentes a través de una cuenta de usuario.
 
  
 
