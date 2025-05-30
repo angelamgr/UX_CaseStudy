@@ -79,7 +79,14 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| ID | Sexo / Edad | Ocupación | Experiencia en Internet | Plataforma | Perfil cubierto | Test | SUS Score |
+|------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
+| U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | 68            |
+| U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando el movil a diario, además de una tablet y un PC. | A       | 80            |
+| U3   | Hombre / 22     | Estudiante    | Avanzado                   | Android, Linux  | Está cursando Ingeniería Informática con nosotras, por lo que tiene mucha experiencia con las tecnologías. | A       | 75            |
+| U4   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. | B       | 63            |
+| U5   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
+| U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | 68            |
 
 
 
