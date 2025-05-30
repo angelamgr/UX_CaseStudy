@@ -211,54 +211,51 @@ Tras la realización de este proyecto hemos obtenido el diseño final de nuestro
 El trabajo del equipo ha sido bueno, manteniendo una comunicación clara y una asignación de tareas estructurada. Una pequeña dificultad encontrada ha sido el uso de la herramienta Figma para el prototipado ya que no se había usado antes. 
 
 ## Paso 4. Pruebas de Evaluación 
+Para esta práctica nos han asignado el grupo DIU.PalmeraFosforita, cuyo proyecto sobre venta, talleres y eventos sobre cerámica se llama "Kerarqueo". El prototipo proporcionado es el siguiente: [Prototipo Kerarqueo](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-359&t=LVN78XnzukW0aWbK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).
+<br>
+Para estas pruebas consideramos que el prototipo A es el nuestro (Tierra Nazarí) y el prototipo B la plataforma de nuestros compañeros de clase (Kerarqueo).
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+Para hacer cada uno de los tests hemos elegido a 6 personas de nuestro entorno (familiares y amigos). A cada uno de ellos se les ha asignado uno de los dos prototipos para las pruebas, de forma que cada proyecto sea estudiado por el mismo número de personas.
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+| 🆔 ID | 👤 Sexo / Edad | 💼 Ocupación | 🌐 Experiencia en Internet | 📱 Plataforma | 🧩 Perfil cubierto | 🧪 Test | 📊 SUS Score |
+|------|----------------|--------------|----------------------------|----------------|--------------------|---------|---------------|
+| U1   | Mujer / 50     | Secretaria   | Bajo                       | Móvil (Android) | Trabaja como secretaria en un centro de salud y solo usa el móvil para WhatsApp y ver fotos en Facebook. Nunca ha comprado online ni usado apps de compras. Le cuesta adaptarse a cambios tecnológicos. | A       | 68            |
+| U2   | Mujer / 19    | Estudiante   | Alto                       | Android, Ordenador | Estudiante de psicología. Lleva desde pequeña utilizando el movil a diario, además de una tablet y un PC. | A       | 80            |
+| U3   | Hombre / 22     | Estudiante    | Avanzado                   | Android, Linux  | Está cursando Ingeniería Informática con nosotras, por lo que tiene mucha experiencia con las tecnologías. | A       | 75            |
+| U4   | Hombre / 40    | Comercial    | Bajo                       | iOS              | Trabaja en una tienda de electrodomésticos y utiliza su iPhone tan solo para las tareas básicas. | B       | 63            |
+| U5   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
+| U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | 68            |
 
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+A la hora de elegir qué pruebas realizar, nos decantamos rápidamente por las propuestas en el guión de prácticas: el cuestionario SUS y el método de Eye Tracking. A continuación se explicarán sus resultados.
 
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
+Este método se llevó a cabo explicando a los 6 usuarios (por separado) la idea general de la plataforma que les tocaba evaluar. Se les ofrecía que intentaran realizar una compra o apuntarse a un taller/evento y, tras dejarles navegar por el prototipo de forma libre, se les envió un cuestionario con las 10 preguntas para calcular la escala SUS.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Tras obtener los resultados de todos los usuarios, pasamos a calcular la media de las escalas SUS para las dos propuestas. Las escalas resultantes son un 74 para el prototipo A (Tierra Nazarí) y un 61 para el prototipo B (Kerarqueo). Usando la una escala de valores ampliamente aceptada, concluimos que la usabilidad del prototipo A es **buena** y la del prototipo B **aceptable** (para estos usuarios).
+
+Escala SUS que consideramos:
+- 0-25 --> La peor imaginable
+- 25-50 --> Muy pobre
+- 51-70 --> Aceptable
+- 71-80 --> Buena
+- 81-100 --> Excelente
 
 
-### 4.d A/B Testing
+### 4.d Aplicación del método Eye Tracking 
+También se llevó a cabo este método. En un principio se iba a realizar tanto para el prototipo B como el A, aunque debido a problemas técnicos, finalmente solo se pudo aplicar al prototipo B (Kerarqueo).
+<br>
+Para esta prueba se obtuvieron los mapas de calor para un usuario que trató de hacer dos actividades en la web: acceder al catálogo de productos y realizar una compra. Los resultados fueron positivos, concluyendo que el prototipo desarrollado logra captar con éxito la atención del usuario, aunque algunos elementos del la interfaz distraen al usuario de encontrar rápidamente los iconos que busca. Pese a ello, la conclusión es que la claridad visual del prototipo de Kerarqueo y la clara estructura jerárquica permiten una navegación fluida de los usuarios.
+
+### 4.e A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
 
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
