@@ -1,8 +1,8 @@
 # 🔍 Introducción
-El objetivo de esta práctica es evaluar la usabilidad del prototipo utilizando dos métodos complementarios: la prueba A/B y el cuestionario SUS (System Usability Scale). Esta combinación facilitará la comparación entre dos versiones de diseño y funcionará también como herramienta de coevaluación en el contexto de las actividades en clase.
-El proyecto que nos ha tocado evaluar es el del equipo DIU3.PalmeraFosforita. Su proyecto, Kerarqueo, se basa en una aplicación movil para vender productos de ceramica artesanarl, ralizar cursillos y eventos sobre la misma. 
+El objetivo de esta práctica es evaluar la usabilidad del prototipo utilizando dos métodos complementarios: la prueba A/B y el cuestionario SUS (System Usability Scale). Esta combinación facilitará la comparación entre dos prototipos y funcionará también como herramienta de coevaluación en el contexto de las actividades en clase.
+El proyecto que nos ha tocado evaluar es el del equipo DIU3.PalmeraFosforita. Su proyecto, Kerarqueo, se basa en una aplicación movil para vender productos de ceramica artesanal, ralizar cursillos y eventos sobre la misma.
 
-Sus diseños se pueden encontar aquí: [Prototipos](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-359&t=LVN78XnzukW0aWbK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+Sus diseños se pueden encontar aquí: [Prototipo Kerarqueo](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-359&t=LVN78XnzukW0aWbK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 # 👥 Users. Elección y características de los usuarios reclutados
 Para evaluar la usabilidad de su aplicación hemos elegido 4 personas con diferentes características:
@@ -10,6 +10,8 @@ Para evaluar la usabilidad de su aplicación hemos elegido 4 personas con difere
 - Una joven de 19 años con buen manejo de la tecnología
 - Un hombre de 40 años con baja experiencia
 - Una mujer de 30 con mucha experiencia
+- Un hombre de 22 años con buen manejo.
+- Una mujer de 21 años con gran experiencia.
 
 A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por tanto, las dos segundas el caso B (la app Kerarqueo). Para llevar a cabo la evaluación, solicitamos la colaboración de personas conocidas cuya experiencia es similar a la de los usuarios ficticios, con el fin de obtener un feedback más preciso y rellenar el cuestionario SUS de forma realista, minimizando así posibles sesgos en los resultados. A continuación, se presenta en una tabla la información de los usuarios ficticios seleccionados para esta actividad:
 
@@ -29,20 +31,21 @@ A las dos primeras personas evaluan el caso A (la web de Tierra Nazarí), y por 
 # 🧪 Diseño de las pruebas
 
 ## ✅ SUS Questionnaire
-Para esta prueba le pedimos a los 4 usuarios del estudio que probaran el prototipo que les había tocado estudiar. Creamos el siguiente formulario de google forms (en base al proporcionado por los profesores en el guión de prácticas): https://forms.gle/yww2tnbZj5iQDKkcA
+Para esta prueba le pedimos a los 4 usuarios del estudio que probaran el prototipo que les había tocado estudiar. Creamos un formulario de google forms (en base al proporcionado por los profesores en el guión de prácticas: https://forms.gle/yww2tnbZj5iQDKkcA) y se lo enviamos a los usuarios. Les pedimos que probaran el prototipo que le habíamos asignado explicándoles antes la idea detrás de cada plataforma y que debían intentar hacer hacer una compra y apuntarse a un taller (o un evento en el caso de Kerarqueo). Tras ello, resolvieron el cuestionario.
 
-Una vez los cuatro usuarios habían respondido, descargamos las respuestas en un excel y añadimos una nueva columna que utiliza la formula para calcular la escala SUS de cada usuario (formula explicada en el artículo del guión de prácticas). El excel en formato pdf con estos resultados se puede encontrar en: [SUS Questionnaire](./sus_results.pdf).
-
-<br>
-
-Según estos resultados, la puntuación SUS para el prototipo A es 74 y la del prototipo B 61. 
-
-Viendo estos resultados de la encuesta SUS, podemos apreciar que los dos usuarios que han probado el prototipo A (Tierra Nazarí) la han considerado más cómoda que la propuesta B (Kerarqueo). Según sus respuestas, podemos deducir que el primer prototipo cuenta con una interfaz más clara que la segunda y que, por tanto, puede resultar más navegable para personas con menor manejo de las tecnologías.
+Una vez todos los usuarios habían completado el cuestionario descargamos las respuestas en un excel y añadimos una nueva columna que utiliza la formula para calcular la escala SUS de cada usuario (formula explicada en el artículo del guión de prácticas). El excel en formato pdf con estos resultados se puede encontrar en: [SUS Questionnaire](./sus_results.pdf).
 
 <br>
 
+En conclusión, tras hacer las medias, encontramos que la escala SUS para el prototipo A es 74 y la del prototipo B 61. Usando la siguiente escala, para estos usuarios la usabilidad del prototipo A es **buena**, mientras que para el prototipo B **aceptable**.
 
-Por tanto, según este método, existiría una preferencia sobre el **prototipo A**, ya que la usabilidad del prototipo B se ha considerado solamente aceptable.
+Escala SUS utilizada:
+
+- 0-25 --> La peor imaginable
+- 25-50 --> Muy pobre
+- 51-70 --> Aceptable
+- 71-80 --> Buena
+- 81-100 --> Excelente
 
 <br>
 
@@ -54,10 +57,20 @@ Se han llevado a cabo dos pruebas correspondientes al caso B. En el caso A, surg
 
  [Eye Tracking](Eye_Tracking.pdf)
 
+<br>
+
+## A/B Testing
+
+
+<br>
+
 
 # 🧾 Usability Report del Caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+
+<br>
+
 
 # 🧠 Conclusiones
 
