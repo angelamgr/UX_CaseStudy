@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### KERARQUEO
 
-### (Fecha)
-
-
+### 30/05/2025
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+<img src="https://github.com/angelamgr/UX_CaseStudy/blob/affb62c54bcb6a880ab0fe13be5cbd8dd7ebce5b/P4/logo_kerarqueo.png" alt="logo" />
+
+[[Enlace a GITHUB del proyecto]](https://github.com/PalmeraFosforita/UX_CaseStudy.git)
 
 
 
