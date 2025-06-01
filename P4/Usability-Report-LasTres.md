@@ -112,7 +112,7 @@ La **puntuación media del test SUS** fue de **74,17**, lo que sitúa la usabili
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+No se ha podidio realizar la prueba Eye Traking, la herramienta GazeRecorder no grababa bien la pantalla en ninguno de nuestros dispositivos y se opto por probar con la herramienta RealEye. Con dicha herramienta se pudo realizar el test al trabajo de los compañeros pero no al nuestro ya que no conseguimos que cargara el prototipo correctamente, le quita la interactividad y por tanto no se puede navegar para ver como se desarrollarían las tareas. 
 
 
 
