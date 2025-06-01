@@ -234,9 +234,10 @@ A la hora de elegir qué pruebas realizar, nos decantamos rápidamente por las p
 
 
 ### 4.c Cuestionario SUS
-Este método se llevó a cabo explicando a los 6 usuarios (por separado) la idea general de la plataforma que les tocaba evaluar. Se les ofrecía que intentaran realizar una compra o apuntarse a un taller/evento y, tras dejarles navegar por el prototipo de forma libre, se les envió un cuestionario con las 10 preguntas para calcular la escala SUS.
 
-Tras obtener los resultados de todos los usuarios, pasamos a calcular la media de las escalas SUS para las dos propuestas. Las escalas resultantes son un 74 para el prototipo A (Tierra Nazarí) y un 61 para el prototipo B (Kerarqueo). Usando la una escala de valores ampliamente aceptada, concluimos que la usabilidad del prototipo A es **buena** y la del prototipo B **aceptable** (para estos usuarios).
+Este método se llevó a cabo sobre los 6 usuarios anteriores, pidiendoles interactuar con ambos prototipos para depués rellenar un cuestionario de 10 preguntas.
+
+Para nuestro prototipo, Tierra Nazarí, la escala resultante fue 74. Usando la siguiente escala de valores, concluimos que la usabilidad del prototipo que desarrollamos es **buena**.
 
 Escala SUS que consideramos:
 - 0-25 --> La peor imaginable
@@ -246,60 +247,30 @@ Escala SUS que consideramos:
 - 81-100 --> Excelente
 
 
-### 4.d Aplicación del método Eye Tracking 
-También se llevó a cabo este método. En un principio se iba a realizar tanto para el prototipo B como el A, aunque debido a problemas técnicos, finalmente solo se pudo aplicar al prototipo B (Kerarqueo).
-<br>
-Para esta prueba se obtuvieron los mapas de calor para un usuario que trató de hacer dos actividades en la web: acceder al catálogo de productos y realizar una compra. Los resultados fueron positivos, concluyendo que el prototipo desarrollado logra captar con éxito la atención del usuario, aunque algunos elementos del la interfaz distraen al usuario de encontrar rápidamente los iconos que busca. Pese a ello, la conclusión es que la claridad visual del prototipo de Kerarqueo y la clara estructura jerárquica permiten una navegación fluida de los usuarios.
-
-### 4.e A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+### 4.d Aplicación del método Eye Tracking
+En un principio ibamos a aplicar también este método sobre nuestro prototipo, pero una [serie de fallos con las herramientas de prueba](P4/Eye_Tracking.pdf) nos impidieron probarlo con nuestro proyecto. Tan solo pudimos probarlo con el prototipo B.
 
 
-### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
+### 4.e Usability Report de Tierra Nazarí
+La evaluación de usabilidad de nuestro proyecto se puede encontrar en el siguiente enlace:
+[Usability Report Caso A (Tierra Nazarí)](P4/Usability-Report-LasTres.md)
 
 <br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
+En resumen, el prototipo desarrollado para nuestro proyecto ha resultado funcional y visualmente atractivo para los usuarios que lo han probado. No obstante, quedarían por mejorar ciertos aspectos de la interfaz que se han señalado como mejorables en la evaluación de usabilidad.
+<br>
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
+Una vez concluidas las cuatro fases de desarrollo de la práctica, podemos afirmar que el proceso ha sido enriquecedor. Nos ha permitido obtener una idea más real y práctica de cómo es el proceso de desarrollo de Interfaces de Usuarios de forma que se consiga satisfacer las necesidades de los futuros usuarios de una plataforma.
 
+<br>
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Hemos visto cómo, partiendo de una idea general de la página web que queríamos diseñar, hemos logrado crear un prototipo que ha conseguido una buena usabilidad en las pruebas de la Práctica 4. Todo gracias al análisis de usuarios realizado en la Práctica 1 y el desarrollo de las ideas que teníamos para Tierra Nazarí en las prácicas 2 y 3. Si se tratara de un proyecto real, podríamos hacer mejoras de usabilidad revisitando las etapas de desarrollo anteriores.
 
+<br>
+
+En conclusión, estas prácticas nos han ayudado a obtener una idea más clara de las etapas y cada uno de los detalles que se han ido explicando en las clases de teoría. Además, hemos aprendido a utilizar herramientas de diseño, como Figma, que sin duda nos serán muy útiles en proyectos futuros.
 
 
 
