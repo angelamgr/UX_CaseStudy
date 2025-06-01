@@ -59,19 +59,40 @@ Se han llevado a cabo dos pruebas correspondientes al caso B. En el caso A, surg
 
 <br>
 
-## A/B Testing
-
-
-<br>
-
 
 # 🧾 Usability Report del Caso B
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+Se ha realizado el Usability Report tanto del caso B como del caso A, en dichos informes detallamos un análisis completo de la usabilidad de ambos casos. 
 
+Los archivos se pueden consultar aqui:
+[Report Caso A](Usability-Report-LasTres.md)
+[Report Caso B](Usability-Report-PalmeraFosforita.md)
+
+Ambos archivos cuentan con sugerencias de mejora, aqui podemos verlas resumidamente para cada caso:
+
+## Caso A
+- Hacer más visible la funcionalidad de compra frecuente, ya que actualmente se encuentra demasiado escondida dentro de la lista de productos
+- Permitir aplicar códigos de descuento directamente desde la vista de descuentos, en lugar de obligar al usuario a llegar hasta el carrito final
+- Añadir un selector de cantidad antes de añadir productos al carrito, evitando tener que modificarlos dentro de la cesta
+- Incluir un pequeño mensaje o tooltip que indique que solo se puede aplicar un descuento por compra
+- Añadir una breve guía interactiva o tutorial inicial para usuarios con baja alfabetización digital
+  
+## Caso B
+- Añadir mensajes de confirmación tras completar acciones clave
+- Mejorar la jerarquía visual en secciones repetitivas como cursos y eventos
+- Implementar filtros funcionales que permitan ordenar el catálogo por tipo, precio, popularidad o fecha.
+- Aumentar la información mostrada en los eventos (fechas, plazas, nivel, precio) para facilitar la toma de decisiones del usuario.
+- Revisar el uso de botones y formularios para asegurarse de que siempre ofrecen retroalimentación clara.
+
+Si se llevan a cabo estas pequeñas mejoras la usabilidad de la página mejorara notablemente en ambos casos.
 <br>
 
 
 # 🧠 Conclusiones
 
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+## A/B testing
+En conclusión, en la prueba del A/B testing, nuestro Caso A (Tierra Nazarí), con una puntuación SUS de 74, demuestra buena usabilidad, mientras que el Caso B (Kerarqueo), con 61, indica una experiencia aceptable pero mejorable. Las mejoras sugeridas en los reportes de usabilidad, basadas en el feedback obtenido por parte de nuestros usuarios, facilitarían la navegación y mejorarían la experiencia de usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación.
+
+## Trabajo desempeñado por el grupo
+Tras la realización de esta práctica hemos podido comprobar lo necesarias que son las pruebas de usabilidad y hemos podido autoevaluar el trabajo desempeñado durante el cuatrimestre. Hemos utilizado los materiales proporcionados por el profesorado para realizar las pruebas exceptuando el recurso proporcionado para la prueba del eye tracking.
+El trabajo del equipo ha sido bueno, manteniendo una comunicación clara y una asignación de tareas estructurada. Una pequeña dificultad encontrada ha sido el uso de la herramienta Figma para el prototipado ya que no se había usado antes.
