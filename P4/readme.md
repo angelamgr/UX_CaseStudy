@@ -60,7 +60,7 @@ Se han llevado a cabo dos pruebas correspondientes al caso B. En el caso A, surg
 <br>
 
 
-# 🧾 Usability Report del Caso B
+# 🧾 Usability Report de ambos casos
 
 Se ha realizado el Usability Report tanto del caso B como del caso A, en dichos informes detallamos un análisis completo de la usabilidad de ambos casos. 
 
