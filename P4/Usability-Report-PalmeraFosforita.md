@@ -93,6 +93,8 @@ Se llevaron a cabo dos test:
 - Realizar una compra -> el prototipo logra captar la atención del usuario en los elementos principales, sin embargo hay una fijación prolongada en un botón "Comprar" que no tiene funcionalidad lo que indica fallos en la interactividad. Obtubo una puntuación de 76/100
 
 Aquí se puede ver el analisis en profundidad  [Eye Tracking](Eye_Tracking.pdf)
+
+
 #### Resultados obtenidos
 
 
@@ -101,6 +103,8 @@ Aquí se puede ver el analisis en profundidad  [Eye Tracking](Eye_Tracking.pdf)
 
 <img src="https://github.com/angelamgr/UX_CaseStudy/blob/58ebfbe0f3dfb7d6b00f82267f02ccd6d1eb760a/P4/sus_results.png" alt="sus_results">
 
+#### Resultados Eye Traking
+Se pueden consultar en el siguiente documento: [Eye Tracking](Eye_Tracking.pdf)
 
 
 
