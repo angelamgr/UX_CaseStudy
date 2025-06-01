@@ -111,25 +111,37 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Las pruebas de usabilidad realizadas al prototipo de Kerarqueo han permitido detectar una propuesta sólida en cuanto a estética visual y coherencia temática, pero con debilidades claras en la experiencia de interacción. Las tareas principales —como navegar por el catálogo, consultar cursos o realizar inscripciones— presentan barreras relacionadas con la falta de retroalimentación y la jerarquía visual de los contenidos.
+
+El test SUS arrojó una media de **60,83**, lo que indica una **usabilidad aceptable**, aunque por debajo del umbral deseado de 70. Los usuarios con mayor experiencia digital pudieron adaptarse al diseño, pero detectaron limitaciones en la funcionalidad. En cambio, los perfiles con menor experiencia tecnológica manifestaron dudas sobre si las acciones realizadas (como “Inscribirse” o “Comprar”) se habían procesado correctamente.
 
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+* No fue posible obtener datos mediante eye tracking sobre este prototipo debido a las limitaciones de las herramientas empleadas y la falta de interactividad real en algunos layouts.
+* Al tratarse de un mockup, ciertas funciones como filtros, validaciones de formulario o confirmaciones de acción no estaban activas, lo que generó dudas en los usuarios durante la prueba.
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+**Puntos positivos a destacar:**
+
+- Diseño visual atractivo y coherente con la temática de cerámica artesanal.
+- Estructura clara con menú bien definido y navegación sencilla.
+- Identidad visual cuidada, uso correcto de colores, y buena presentación de contenidos.
+- Interés en combinar catálogo, eventos y formación en una única plataforma.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+- Añadir **mensajes de confirmación** tras completar acciones clave (como inscribirse o realizar una compra).
+- Mejorar la **jerarquía visual** en secciones repetitivas como cursos y eventos, diferenciando contenido con íconos, etiquetas o colores.
+- Implementar **filtros funcionales** que permitan ordenar el catálogo por tipo, precio, popularidad o fecha.
+- Aumentar la información mostrada en los eventos (fechas, plazas, nivel, precio) para facilitar la toma de decisiones del usuario.
+- Revisar el uso de botones y formularios para asegurarse de que siempre ofrecen retroalimentación clara.
 
 
 
@@ -139,4 +151,4 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+El análisis del prototipo de Kerarqueo ha sido una experiencia útil y enriquecedora. Nos ha permitido aplicar herramientas y criterios de evaluación reales, y reflexionar sobre aspectos que también podríamos mejorar en nuestro propio diseño. La técnica del A/B testing y el cuestionario SUS han resultado fundamentales para identificar tanto fortalezas como debilidades, demostrando la importancia del testeo con usuarios reales en cualquier proceso de diseño centrado en el usuario.
