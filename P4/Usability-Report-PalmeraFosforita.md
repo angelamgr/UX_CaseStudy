@@ -87,10 +87,12 @@ Las sesiones fueron semiestructuradas y mayoritariamente no supervisadas. La her
 | U5   | Mujer / 30     | Ingeniera    | Avanzado                   | Android, Tablet  | Ingeniera de telecomunicaciones que utiliza apps de productividad y compra online. Perfil avanzado y exigente. | B       | 53            |
 | U6   | Mujer / 21     | Estudiante    | Avanzado                   | Android, Windows  | Estudiando informática, utiliza mucho su teléfono y su portatil para las prácticas. | B       | 68            |
 
+#### Test Eye Traking
+Se llevaron a cabo dos test: 
+- Acceder al catalogo de productos -> se llego a la conclusión de que el prototipo presenta buen diseño visual ya que es comprensible y consigue captar la atención del usuario. Obtubo una puntuación de 82/100.
+- Realizar una compra -> el prototipo logra captar la atención del usuario en los elementos principales, sin embargo hay una fijación prolongada en un botón "Comprar" que no tiene funcionalidad lo que indica fallos en la interactividad. Obtubo una puntuación de 76/100
 
-
-
-
+Aquí se puede ver el analisis en profundidad  [Eye Tracking](Eye_Tracking.pdf)
 #### Resultados obtenidos
 
 
@@ -119,7 +121,6 @@ El test SUS arrojó una media de **60,83**, lo que indica una **usabilidad acept
 
 #### Incidencias
 
-* No fue posible obtener datos mediante eye tracking sobre este prototipo debido a las limitaciones de las herramientas empleadas y la falta de interactividad real en algunos layouts.
 * Al tratarse de un mockup, ciertas funciones como filtros, validaciones de formulario o confirmaciones de acción no estaban activas, lo que generó dudas en los usuarios durante la prueba.
 
 
